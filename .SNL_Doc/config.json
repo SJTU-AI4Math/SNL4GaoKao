@@ -1,0 +1,300 @@
+{
+  "version": "0.1.0",
+  "entry_kinds": [
+    {
+      "id": "section",
+      "name": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "Section",
+          "zh-CN": "节"
+        }
+      },
+      "description": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "A section that organizes related entries.",
+          "zh-CN": "用于组织相关条目的章节。"
+        }
+      },
+      "coloring": {
+        "light": {
+          "stroke": "#475569",
+          "background": "#F1F5F9"
+        },
+        "dark": {
+          "stroke": "#CBD5E1",
+          "background": "#313131"
+        }
+      },
+      "defaultCounterName": "section",
+      "style": "section"
+    },
+    {
+      "id": "subsection",
+      "name": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "Subsection",
+          "zh-CN": "小节"
+        }
+      },
+      "description": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "A subsection within a section.",
+          "zh-CN": "章节中的子章节。"
+        }
+      },
+      "coloring": {
+        "light": {
+          "stroke": "#64748B",
+          "background": "#F8FAFC"
+        },
+        "dark": {
+          "stroke": "#94A3B8",
+          "background": "#313131"
+        }
+      },
+      "defaultCounterName": "subsection",
+      "style": "section"
+    },
+    {
+      "id": "entry",
+      "name": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "Entry",
+          "zh-CN": "条目"
+        }
+      },
+      "description": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "A general SNL entry.",
+          "zh-CN": "通用 SNL 条目。"
+        }
+      },
+      "coloring": {
+        "light": {
+          "stroke": "#0369A1",
+          "background": "#E0F2FE"
+        },
+        "dark": {
+          "stroke": "#7DD3FC",
+          "background": "#313131"
+        }
+      },
+      "defaultCounterName": "entry",
+      "style": ""
+    },
+    {
+      "id": "grammar",
+      "name": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "Grammar",
+          "zh-CN": "语法"
+        }
+      },
+      "description": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "Records a grammar rule, pattern, or grammatical analysis.",
+          "zh-CN": "记录语法规则、句式或语法分析。"
+        }
+      },
+      "coloring": {
+        "light": {
+          "stroke": "#7E22CE",
+          "background": "#F3E8FF"
+        },
+        "dark": {
+          "stroke": "#C084FC",
+          "background": "#313131"
+        }
+      },
+      "defaultCounterName": "grammar",
+      "style": ""
+    },
+    {
+      "id": "vocabulary",
+      "name": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "Vocabulary",
+          "zh-CN": "词汇"
+        }
+      },
+      "description": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "Records a word, phrase, meaning, usage, or lexical distinction.",
+          "zh-CN": "记录词语、短语、释义、用法或词义辨析。"
+        }
+      },
+      "coloring": {
+        "light": {
+          "stroke": "#0369A1",
+          "background": "#E0F2FE"
+        },
+        "dark": {
+          "stroke": "#7DD3FC",
+          "background": "#313131"
+        }
+      },
+      "defaultCounterName": "vocabulary",
+      "style": ""
+    },
+    {
+      "id": "article",
+      "name": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "Article",
+          "zh-CN": "文章"
+        }
+      },
+      "description": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "Records a complete passage, composition, or reading material.",
+          "zh-CN": "记录完整篇章、作文或阅读材料。"
+        }
+      },
+      "coloring": {
+        "light": {
+          "stroke": "#9A4D00",
+          "background": "#FFEBD2"
+        },
+        "dark": {
+          "stroke": "#FB923C",
+          "background": "#313131"
+        }
+      },
+      "defaultCounterName": "article",
+      "style": ""
+    }
+  ],
+  "macro_kinds": [
+    {
+      "id": "fvar",
+      "name": "Free variable",
+      "description": "Free variables not defined by an active Macro Package.",
+      "coloring": {
+        "light": {
+          "stroke": "#B0001C",
+          "background": "#FFD6DC"
+        },
+        "dark": {
+          "stroke": "#FB7185",
+          "background": "#313131"
+        }
+      }
+    },
+    {
+      "id": "binder",
+      "name": "Binder",
+      "description": "Binding sites such as quantified variables and lambda parameters.",
+      "coloring": {
+        "light": {
+          "stroke": "#0E7490",
+          "background": "#CFFAFE"
+        },
+        "dark": {
+          "stroke": "#67E8F9",
+          "background": "#313131"
+        }
+      }
+    },
+    {
+      "id": "const",
+      "name": "Const",
+      "description": "Constants and defined terms.",
+      "coloring": {
+        "light": {
+          "stroke": "#005B9C",
+          "background": "#DAF0FF"
+        },
+        "dark": {
+          "stroke": "#60A5FA",
+          "background": "#313131"
+        }
+      }
+    },
+    {
+      "id": "bvar",
+      "name": "Bound variable",
+      "description": "Bound-variable occurrences.",
+      "coloring": {
+        "light": {
+          "stroke": "#7700E4",
+          "background": "#EFDFFF"
+        },
+        "dark": {
+          "stroke": "#C084FC",
+          "background": "#313131"
+        }
+      }
+    },
+    {
+      "id": "sub",
+      "name": "Sub",
+      "description": "Structural helper subtree that is not a complete syntactic node.",
+      "coloring": {
+        "light": {
+          "stroke": "inherit",
+          "background": "transparent"
+        },
+        "dark": {
+          "stroke": "inherit",
+          "background": "transparent"
+        }
+      }
+    },
+    {
+      "id": "syntax",
+      "name": "Syntax",
+      "description": "Syntactic forms and relations used in language analysis.",
+      "coloring": {
+        "light": {
+          "stroke": "#15803D",
+          "background": "#DCFCE7"
+        },
+        "dark": {
+          "stroke": "#4ADE80",
+          "background": "#313131"
+        }
+      }
+    }
+  ],
+  "active_macro_packages": [
+    "BasicMacros"
+  ],
+  "entity_storage": {
+    "version": 1,
+    "legacy_backup_version": "0.0.5",
+    "entry_default_package": "_unpackaged",
+    "receipt": {
+      "legacy_backup_present": false,
+      "legacy_entries_present": false,
+      "entry_count": 0,
+      "macro_package_count": 0,
+      "macro_count": 0,
+      "entries_digest": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "macro_packages_digest": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    }
+  }
+}
