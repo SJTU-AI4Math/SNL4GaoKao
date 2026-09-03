@@ -1,0 +1,9 @@
+{
+  "id": "ClassicalChineseSyntax",
+  "name": "文言文句法",
+  "description": "用于文言文篇章、段落与句式结构化的术语宏。",
+  "format": "snl-package",
+  "version": 1,
+  "schema_version": 2,
+  "entry_ids": []
+}

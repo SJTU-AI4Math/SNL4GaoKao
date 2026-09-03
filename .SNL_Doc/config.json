@@ -281,7 +281,8 @@
     }
   ],
   "active_macro_packages": [
-    "BasicMacros"
+    "BasicMacros",
+    "ClassicalChineseSyntax"
   ],
   "entity_storage": {
     "version": 1,
