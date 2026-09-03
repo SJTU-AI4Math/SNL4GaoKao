@@ -186,6 +186,37 @@
       },
       "defaultCounterName": "article",
       "style": ""
+    },
+    {
+      "id": "example",
+      "name": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "Example",
+          "zh-CN": "例"
+        }
+      },
+      "description": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "Records an example used for language study or analysis.",
+          "zh-CN": "记录用于语言学习或分析的例子。"
+        }
+      },
+      "coloring": {
+        "light": {
+          "stroke": "#047857",
+          "background": "#D1FAE5"
+        },
+        "dark": {
+          "stroke": "#6EE7B7",
+          "background": "#313131"
+        }
+      },
+      "defaultCounterName": "example",
+      "style": ""
     }
   ],
   "macro_kinds": [

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "Humphrey长难句",
+    "package": "_unpackaged",
+    "kind": "example",
+    "title": "Humphrey 长难句",
+    "content": {
+      "snl": "%Prime Minister, I must protest in the strongest possible terms my profound opposition to a newly instituted practice which imposes severe and intolerable restrictions upon the ingress and egress of senior members of the hierarchy and which will, in all probability, should the current deplorable innovation be perpetuated, precipitate a constriction of the channels of communication, and culminate in a condition of organisational atrophy and administrative paralysis which will render effectively impossible the coherent and co-ordinated discharge of the function of government within Her Majesty's United Kingdom of Great Britain and Northern Ireland.%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}
