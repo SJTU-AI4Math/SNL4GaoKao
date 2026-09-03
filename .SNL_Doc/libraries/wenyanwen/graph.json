@@ -1,0 +1,12 @@
+{
+  "nodes": [
+    {
+      "id": "guoqinlun",
+      "label": "Entry",
+      "props": {
+        "entryId": "过秦论"
+      }
+    }
+  ],
+  "relationships": []
+}
