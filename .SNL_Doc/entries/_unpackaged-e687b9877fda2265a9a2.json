@@ -9,7 +9,7 @@
     "kind": "vocabulary",
     "title": "务",
     "content": {
-      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%致力于；从事。%,%本文“务耕织”：致力于耕作与纺织。%)),%#0：#1%(%名词%,__enum__(%事务；事情。%)))"
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%致力于；从事。%)),%#0：#1%(%名词%,__enum__(%事务；事情。%)))"
     },
     "contribution_info": null,
     "pointer": null

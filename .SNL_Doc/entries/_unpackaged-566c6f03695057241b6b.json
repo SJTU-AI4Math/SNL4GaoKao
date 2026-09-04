@@ -9,7 +9,7 @@
     "kind": "vocabulary",
     "title": "离",
     "content": {
-      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%分离；离开。%,%背离。%)),%#0：#1%(%使动用法%,__enum__(%使……离散。%,%本文“离衡”：使连横阵营离散。%)))"
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%分离；离开。%,%背离。%)),%#0：#1%(%使动用法%,__enum__(%使……离散。%)))"
     },
     "contribution_info": null,
     "pointer": null

@@ -9,7 +9,7 @@
     "kind": "vocabulary",
     "title": "兼",
     "content": {
-      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%兼有。%,%合并；聚合。%,%同时进行。%,%本文“兼韩、魏……之众”：聚合、兼有各国军众。%)))"
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%兼有。%,%合并；聚合。%,%同时进行。%)))"
     },
     "contribution_info": null,
     "pointer": null

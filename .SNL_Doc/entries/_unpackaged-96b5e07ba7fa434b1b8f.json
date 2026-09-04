@@ -9,7 +9,7 @@
     "kind": "vocabulary",
     "title": "重",
     "content": {
-      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%沉重。%,%重要。%)),%#0：#1%(%动词%,__enum__(%重视；看重。%,%本文“重士”：重视。%)))"
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%沉重。%,%重要。%)),%#0：#1%(%动词%,__enum__(%重视；看重。%)))"
     },
     "contribution_info": null,
     "pointer": null

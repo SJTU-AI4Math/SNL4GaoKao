@@ -9,7 +9,7 @@
     "kind": "vocabulary",
     "title": "锄",
     "content": {
-      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%锄头；农具。%,%本文“锄、櫌、棘矜”：锄头。%)),%#0：#1%(%动词%,__enum__(%锄地。%,%铲除。%)))"
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%锄头；农具。%)),%#0：#1%(%动词%,__enum__(%锄地。%,%铲除。%)))"
     },
     "contribution_info": null,
     "pointer": null

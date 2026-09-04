@@ -9,7 +9,7 @@
     "kind": "vocabulary",
     "title": "东",
     "content": {
-      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%东方。%)),%#0：#1%(%副词（方位名词作状语）%,__enum__(%向东；在东方。%,%本文“东割膏腴之地”：向东。%)))"
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%东方。%)),%#0：#1%(%副词（方位名词作状语）%,__enum__(%向东；在东方。%)))"
     },
     "contribution_info": null,
     "pointer": null

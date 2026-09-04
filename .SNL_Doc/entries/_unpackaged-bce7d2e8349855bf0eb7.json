@@ -9,7 +9,7 @@
     "kind": "vocabulary",
     "title": "人",
     "content": {
-      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%人。%,%人民。%,%别人。%,%本文“爱人”：人民。%)))"
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%人。%,%人民。%,%别人。%)))"
     },
     "contribution_info": null,
     "pointer": null

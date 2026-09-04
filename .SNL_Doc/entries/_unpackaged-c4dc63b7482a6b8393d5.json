@@ -9,7 +9,7 @@
     "kind": "vocabulary",
     "title": "士",
     "content": {
-      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%士人。%,%有才德或谋略的人。%,%将士。%,%本文“重士”：有才德、有谋略的人。%)))"
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%士人。%,%有才德或谋略的人。%,%将士。%)))"
     },
     "contribution_info": null,
     "pointer": null

@@ -9,7 +9,7 @@
     "kind": "vocabulary",
     "title": "皆",
     "content": {
-      "snl": "__enum__[dot](%#0：#1%(%副词%,__enum__(%都；全。%,%本文“皆明智而忠信”：都。%)))"
+      "snl": "__enum__[dot](%#0：#1%(%副词%,__enum__(%都；全。%)))"
     },
     "contribution_info": null,
     "pointer": null

@@ -9,7 +9,7 @@
     "kind": "vocabulary",
     "title": "爱",
     "content": {
-      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%爱护；关爱。%,%怜惜。%,%吝惜；舍不得。%,%本文“爱人”：爱护人民。%)))"
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%爱护；关爱。%,%怜惜。%,%吝惜；舍不得。%)))"
     },
     "contribution_info": null,
     "pointer": null

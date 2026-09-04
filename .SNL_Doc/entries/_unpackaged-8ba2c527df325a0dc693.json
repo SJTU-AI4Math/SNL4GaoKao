@@ -9,7 +9,7 @@
     "kind": "vocabulary",
     "title": "尊",
     "content": {
-      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%尊贵。%)),%#0：#1%(%动词%,__enum__(%尊敬；推崇。%,%本文“尊贤”：尊重、推崇。%)))"
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%尊贵。%)),%#0：#1%(%动词%,__enum__(%尊敬；推崇。%)))"
     },
     "contribution_info": null,
     "pointer": null
