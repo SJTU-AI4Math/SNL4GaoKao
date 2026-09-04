@@ -4,12 +4,12 @@
   "schema_version": 1,
   "package": "_unpackaged",
   "entry": {
-    "id": "过秦论.历史人物",
+    "id": "过秦论.古今异义",
     "package": "_unpackaged",
     "kind": "section",
-    "title": "历史人物",
+    "title": "古今异义",
     "content": {
-      "snl": "%组织《过秦论》中具有明确历史人物所指的条目。%"
+      "snl": "%组织《过秦论》中词语古义与现代常用义的对比条目。%"
     },
     "contribution_info": null,
     "pointer": null

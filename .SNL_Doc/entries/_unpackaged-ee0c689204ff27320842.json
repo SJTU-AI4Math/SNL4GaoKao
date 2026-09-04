@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "过秦论.古今异义.于是",
+    "package": "_unpackaged",
+    "kind": "example",
+    "title": "于是",
+    "content": {
+      "snl": "__enum__(%古义：可表示“在这时”“在这种情况下”“在这里”，也可承接前文。%,%今义：主要用作连词，表示后一事紧接或由于前一事而发生。%)"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

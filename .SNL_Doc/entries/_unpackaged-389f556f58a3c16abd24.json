@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "过秦论.古今异义.爱",
+    "package": "_unpackaged",
+    "kind": "example",
+    "title": "爱",
+    "content": {
+      "snl": "__enum__(%古义：吝惜。例：不爱珍器重宝肥饶之地。%,%今义：对人或事物有深厚感情；喜爱。%)"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

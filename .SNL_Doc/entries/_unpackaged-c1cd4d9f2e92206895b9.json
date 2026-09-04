@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "过秦论.特殊句式.定语后置",
+    "package": "_unpackaged",
+    "kind": "example",
+    "title": "定语后置",
+    "content": {
+      "snl": "__enum__(%铸以为金人十二。%,%数量短语“十二”置于中心语“金人”之后。%)"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

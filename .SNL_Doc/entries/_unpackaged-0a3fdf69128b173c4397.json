@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "过秦论.特殊句式.宾语前置",
+    "package": "_unpackaged",
+    "kind": "example",
+    "title": "宾语前置",
+    "content": {
+      "snl": "__enum__(%信臣精卒陈利兵而谁何。%,%疑问代词“谁”作“何”的宾语并置于动词之前。%)"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

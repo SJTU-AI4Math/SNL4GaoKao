@@ -4,12 +4,12 @@
   "schema_version": 1,
   "package": "_unpackaged",
   "entry": {
-    "id": "过秦论.历史政体",
+    "id": "过秦论.古今异义.山东",
     "package": "_unpackaged",
-    "kind": "section",
-    "title": "历史政体",
+    "kind": "example",
+    "title": "山东",
     "content": {
-      "snl": "%组织篇章所引用的历史国家、政权、王室与政治群体。%"
+      "snl": "__enum__(%古义：崤山、函谷关以东的地区。例：山东豪俊遂并起。%,%今义：山东省。%)"
     },
     "contribution_info": null,
     "pointer": null

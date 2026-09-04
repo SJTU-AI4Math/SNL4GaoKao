@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "过秦论.特殊句式.判断句",
+    "package": "_unpackaged",
+    "kind": "example",
+    "title": "判断句",
+    "content": {
+      "snl": "__enum__(%子孙帝王万世之业也。%,%然陈涉瓮牖绳枢之子，氓隶之人，而迁徙之徒也。%,%句末“也”帮助构成判断或确认语气，名词性成分充当谓语。%)"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

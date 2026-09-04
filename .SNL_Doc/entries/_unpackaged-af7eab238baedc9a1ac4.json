@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "过秦论.特殊句式.状语后置",
+    "package": "_unpackaged",
+    "kind": "example",
+    "title": "状语后置",
+    "content": {
+      "snl": "__enum__(%余威震于殊俗。%,%陈涉之位，非尊于齐、楚、燕、赵、韩、魏、宋、卫、中山之君也。%,%“于”组成的介词结构位于所修饰的谓语之后。%)"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

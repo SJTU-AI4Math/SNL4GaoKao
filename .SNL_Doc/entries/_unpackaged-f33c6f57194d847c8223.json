@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "过秦论.特殊句式.被动句",
+    "package": "_unpackaged",
+    "kind": "example",
+    "title": "被动句",
+    "content": {
+      "snl": "__enum__(%为天下笑者，何也？%,%“为”引出施事“天下”，表示被动：被天下人耻笑。%)"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "过秦论.特殊句式.省略句",
+    "package": "_unpackaged",
+    "kind": "example",
+    "title": "省略句",
+    "content": {
+      "snl": "__enum__(%南取百越之地，以为桂林、象郡。%,%“以为”之间省略代词宾语，可理解为“以之为桂林、象郡”；这里只记录省略现象，不在正文AST中补隐含节点。%)"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "过秦论.特殊句式",
+    "package": "_unpackaged",
+    "kind": "section",
+    "title": "特殊句式",
+    "content": {
+      "snl": "%组织《过秦论》中的判断、被动、倒装、省略等特殊句式及其分析。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}
