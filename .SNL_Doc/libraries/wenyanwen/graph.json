@@ -1149,13 +1149,6 @@
       }
     },
     {
-      "id": "grammar.文法.无",
-      "label": "Entry",
-      "props": {
-        "entryId": "文法.无"
-      }
-    },
-    {
       "id": "grammar.文法.已",
       "label": "Entry",
       "props": {
@@ -2911,6 +2904,13 @@
       "props": {
         "entryId": "过秦论.古今异义.于是"
       }
+    },
+    {
+      "id": "vocab.无",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.无"
+      }
     }
   ],
   "relationships": [
@@ -3737,11 +3737,6 @@
     {
       "from": "guoqinlun.wenyan-xuci",
       "to": "grammar.文法.相与",
-      "label": "branch"
-    },
-    {
-      "from": "guoqinlun.wenyan-xuci",
-      "to": "grammar.文法.无",
       "label": "branch"
     },
     {
@@ -4987,6 +4982,11 @@
     {
       "from": "guoqinlun.ancient-modern",
       "to": "ancient-modern.于是",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.无",
       "label": "branch"
     }
   ]

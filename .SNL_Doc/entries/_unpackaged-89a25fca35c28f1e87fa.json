@@ -4,9 +4,9 @@
   "schema_version": 1,
   "package": "_unpackaged",
   "entry": {
-    "id": "文法.无",
+    "id": "文.无",
     "package": "_unpackaged",
-    "kind": "grammar",
+    "kind": "vocabulary",
     "title": "无",
     "content": {
       "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%表示不存在、没有或未具备。%)))"
