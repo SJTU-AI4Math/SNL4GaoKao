@@ -4,7 +4,7 @@
   "schema_version": 1,
   "package": "ClassicalChineseSyntax",
   "macro": {
-    "description": "由多个句子组成一个段落。",
+    "description": "",
     "source": {
       "entries": [],
       "urls": []
@@ -18,7 +18,7 @@
         "template": {
           "mode": "text",
           "body": "#*",
-          "separator": "",
+          "separator": "，",
           "typst": {
             "built_in": "",
             "synthesis": {
@@ -39,6 +39,6 @@
       }
     ],
     "tags": [],
-    "name": "段落"
+    "name": "，"
   }
 }

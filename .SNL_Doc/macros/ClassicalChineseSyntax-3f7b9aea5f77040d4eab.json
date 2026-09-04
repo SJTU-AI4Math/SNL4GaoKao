@@ -4,7 +4,6 @@
   "schema_version": 1,
   "package": "ClassicalChineseSyntax",
   "macro": {
-    "name": "文章",
     "description": "由多个段落组成一篇文章。",
     "source": {
       "entries": [],
@@ -39,6 +38,7 @@
         }
       }
     ],
-    "tags": []
+    "tags": [],
+    "name": "文章"
   }
 }

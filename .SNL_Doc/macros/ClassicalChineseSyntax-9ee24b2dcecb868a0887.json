@@ -4,7 +4,6 @@
   "schema_version": 1,
   "package": "ClassicalChineseSyntax",
   "macro": {
-    "name": "状谓结构",
     "description": "由状语和受其修饰的谓语组成的结构。",
     "source": {
       "entries": [],
@@ -86,6 +85,7 @@
         }
       }
     ],
-    "tags": []
+    "tags": [],
+    "name": "状谓结构"
   }
 }

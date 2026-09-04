@@ -4,7 +4,6 @@
   "schema_version": 1,
   "package": "ClassicalChineseSyntax",
   "macro": {
-    "name": "主谓结构",
     "description": "由主语和谓语组成，表示陈述关系的结构。",
     "source": {
       "entries": [],
@@ -62,6 +61,7 @@
         }
       }
     ],
-    "tags": []
+    "tags": [],
+    "name": "主谓结构"
   }
 }

@@ -4,7 +4,6 @@
   "schema_version": 1,
   "package": "ClassicalChineseSyntax",
   "macro": {
-    "name": "并列结构",
     "description": "由语法地位相同的成分组成的并列结构。",
     "source": {
       "entries": [],
@@ -164,6 +163,7 @@
         }
       }
     ],
-    "tags": []
+    "tags": [],
+    "name": "并列结构"
   }
 }

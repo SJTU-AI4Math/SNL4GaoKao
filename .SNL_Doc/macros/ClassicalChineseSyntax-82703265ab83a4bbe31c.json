@@ -4,21 +4,20 @@
   "schema_version": 1,
   "package": "ClassicalChineseSyntax",
   "macro": {
-    "description": "由多个句子组成一个段落。",
+    "description": "",
     "source": {
       "entries": [],
       "urls": []
     },
     "kind": "syntax",
-    "dynamic_arity": true,
+    "dynamic_arity": false,
     "styles": [
       {
         "style_name": "default",
         "tags": [],
         "template": {
           "mode": "text",
-          "body": "#*",
-          "separator": "",
+          "body": "#0而#1",
           "typst": {
             "built_in": "",
             "synthesis": {
@@ -39,6 +38,6 @@
       }
     ],
     "tags": [],
-    "name": "段落"
+    "name": "文.而"
   }
 }
