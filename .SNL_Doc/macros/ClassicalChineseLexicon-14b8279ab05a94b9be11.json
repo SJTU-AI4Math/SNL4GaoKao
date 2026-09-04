@@ -4,11 +4,11 @@
   "schema_version": 1,
   "package": "ClassicalChineseLexicon",
   "macro": {
-    "name": "皆",
-    "description": "文言词汇“皆”。",
+    "name": "异变",
+    "description": "文言词汇“异变”。",
     "source": {
       "entries": [
-        "文.皆"
+        "文.异变"
       ],
       "urls": []
     },
@@ -20,7 +20,7 @@
         "tags": [],
         "template": {
           "mode": "text",
-          "body": "皆"
+          "body": "异变"
         }
       }
     ],

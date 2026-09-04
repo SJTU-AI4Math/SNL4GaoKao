@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.括",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "括",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%包容；囊括。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

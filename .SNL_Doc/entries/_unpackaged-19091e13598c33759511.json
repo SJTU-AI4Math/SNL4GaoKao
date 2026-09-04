@@ -4,12 +4,12 @@
   "schema_version": 1,
   "package": "_unpackaged",
   "entry": {
-    "id": "文.自",
+    "id": "文.同年而语",
     "package": "_unpackaged",
     "kind": "vocabulary",
-    "title": "自",
+    "title": "同年而语",
     "content": {
-      "snl": "__enum__[dot](%#0：#1%(%代词%,__enum__(%自己。%)),%#0：#1%(%介词%,__enum__(%从；由。%)),%#0：#1%(%副词或状语用法%,__enum__(%亲自；自己。%)))"
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%放在同一时间或同一层次谈论；相提并论。%)))"
     },
     "contribution_info": null,
     "pointer": null

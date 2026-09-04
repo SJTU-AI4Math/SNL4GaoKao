@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.困",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "困",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%困窘；疲乏。%)),%#0：#1%(%动词%,__enum__(%陷入困境；受困。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

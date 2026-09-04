@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.既",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "既",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%副词%,__enum__(%已经；表示动作完成或状态形成。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

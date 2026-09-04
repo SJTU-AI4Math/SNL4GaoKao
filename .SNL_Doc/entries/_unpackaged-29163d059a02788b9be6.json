@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.何",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "何",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%疑问代词%,__enum__(%什么；为什么；怎样。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

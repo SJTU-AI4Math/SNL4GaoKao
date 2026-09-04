@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.山河",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "山河",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%山川河流；也借指疆域、国土。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

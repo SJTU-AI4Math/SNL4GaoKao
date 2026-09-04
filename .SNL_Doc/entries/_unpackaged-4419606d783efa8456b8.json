@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.因",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "因",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%介词%,__enum__(%引出凭借的条件、时机或依据，相当于“趁着”“凭借”。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

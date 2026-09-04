@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.矣",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "矣",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%语气词%,__enum__(%用于句末，表示已然、变化、完成或加强断定。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

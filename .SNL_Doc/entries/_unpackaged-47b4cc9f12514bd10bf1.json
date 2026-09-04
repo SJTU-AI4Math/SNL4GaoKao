@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.不",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "不",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%否定副词%,__enum__(%否定动词、形容词或谓词性成分。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

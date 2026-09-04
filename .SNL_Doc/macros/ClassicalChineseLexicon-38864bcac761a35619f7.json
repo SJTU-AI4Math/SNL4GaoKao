@@ -4,11 +4,11 @@
   "schema_version": 1,
   "package": "ClassicalChineseLexicon",
   "macro": {
-    "name": "自",
-    "description": "文言词汇“自”。",
+    "name": "入朝",
+    "description": "文言词汇“入朝”。",
     "source": {
       "entries": [
-        "文.自"
+        "文.入朝"
       ],
       "urls": []
     },
@@ -20,7 +20,7 @@
         "tags": [],
         "template": {
           "mode": "text",
-          "body": "自"
+          "body": "入朝"
         }
       }
     ],

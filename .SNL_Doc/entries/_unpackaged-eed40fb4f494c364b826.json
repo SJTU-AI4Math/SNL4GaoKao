@@ -4,12 +4,12 @@
   "schema_version": 1,
   "package": "_unpackaged",
   "entry": {
-    "id": "文.皆",
+    "id": "文法.无",
     "package": "_unpackaged",
-    "kind": "vocabulary",
-    "title": "皆",
+    "kind": "grammar",
+    "title": "无",
     "content": {
-      "snl": "__enum__[dot](%#0：#1%(%副词%,__enum__(%都；全。%)))"
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%表示不存在、没有或未具备。%)))"
     },
     "contribution_info": null,
     "pointer": null

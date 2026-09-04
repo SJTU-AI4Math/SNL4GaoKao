@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.是",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "是",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%指示代词%,__enum__(%这；此。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

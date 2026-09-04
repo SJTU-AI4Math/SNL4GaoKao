@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.殊俗",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "殊俗",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%不同的风俗；也指风俗异于中原的远方地区。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

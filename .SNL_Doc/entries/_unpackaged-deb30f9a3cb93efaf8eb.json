@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.震",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "震",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%震动；使震动。%,%威慑；震惊。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

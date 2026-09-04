@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "八荒",
+    "description": "文言词汇“八荒”。",
+    "source": {
+      "entries": [
+        "文.八荒"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "八荒"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

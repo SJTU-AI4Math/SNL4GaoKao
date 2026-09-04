@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.逡巡",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "逡巡",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%徘徊不进；迟疑退却。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.叩",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "叩",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%敲击。%,%进攻或叩击关门。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.为",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "为",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%表示成为、作为或把某物当作某物。%)),%#0：#1%(%介词%,__enum__(%引出受益、对象或原因。%)),%#0：#1%(%被动标记%,__enum__(%引出施事或被动谓词，表示被动。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

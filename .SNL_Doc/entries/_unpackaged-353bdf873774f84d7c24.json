@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.自",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "自",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%代词%,__enum__(%自己。%)),%#0：#1%(%副词%,__enum__(%亲自。%)),%#0：#1%(%介词%,__enum__(%从；自从。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

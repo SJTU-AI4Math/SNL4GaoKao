@@ -4,9 +4,12 @@
   "schema_version": 1,
   "package": "ClassicalChineseSyntax",
   "macro": {
-    "description": "",
+    "name": "文法.以",
+    "description": "文言语法功能词“以”。",
     "source": {
-      "entries": [],
+      "entries": [
+        "文法.以"
+      ],
       "urls": []
     },
     "kind": "syntax",
@@ -37,7 +40,6 @@
         }
       }
     ],
-    "tags": [],
-    "name": "文法.以"
+    "tags": []
   }
 }

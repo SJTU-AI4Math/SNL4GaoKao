@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.连衡",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "连衡",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%战国时期以个别联合破坏合纵的外交策略。%)),%#0：#1%(%动词%,__enum__(%实行连衡策略。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.可",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "可",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%助动词%,__enum__(%可以；能够；值得。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

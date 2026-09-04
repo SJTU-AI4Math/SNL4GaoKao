@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.者",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "者",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%助词%,__enum__(%附着于词或短语后，使其名词化。%,%用于提示、复提或标记话题。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

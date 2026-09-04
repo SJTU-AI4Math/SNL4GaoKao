@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.弊",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "弊",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%弊病；弱点；困乏的状态。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

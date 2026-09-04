@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "逡巡",
+    "description": "文言词汇“逡巡”。",
+    "source": {
+      "entries": [
+        "文.逡巡"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "逡巡"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

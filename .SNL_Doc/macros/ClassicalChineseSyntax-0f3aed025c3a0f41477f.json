@@ -4,9 +4,12 @@
   "schema_version": 1,
   "package": "ClassicalChineseSyntax",
   "macro": {
-    "description": "",
+    "name": "文法.而",
+    "description": "文言语法功能词“而”。",
     "source": {
-      "entries": [],
+      "entries": [
+        "文法.而"
+      ],
       "urls": []
     },
     "kind": "syntax",
@@ -35,9 +38,32 @@
           "markdown": "",
           "text": ""
         }
+      },
+      {
+        "style_name": "comma",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "#0，而#1",
+          "typst": {
+            "built_in": "",
+            "synthesis": {
+              "mode": "formula",
+              "macro": ""
+            }
+          },
+          "latex": {
+            "built_in": "",
+            "synthesis": {
+              "mode": "formula",
+              "macro": ""
+            }
+          },
+          "markdown": "",
+          "text": ""
+        }
       }
     ],
-    "tags": [],
-    "name": "文法.而"
+    "tags": []
   }
 }

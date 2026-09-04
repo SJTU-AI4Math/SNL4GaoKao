@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.以",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "以",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%介词%,__enum__(%引出凭借的工具、条件、身份、依据或对象。%)),%#0：#1%(%连词%,__enum__(%连接目的、结果或承接关系，相当于“来”“以便”“因而”。%)),%#0：#1%(%代词%,__enum__(%指代前文事物，并可作为后续动词的宾语。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

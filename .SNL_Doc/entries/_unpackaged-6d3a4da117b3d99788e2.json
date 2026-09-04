@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.诸侯",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "诸侯",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%受封建国的君主；也可统称诸侯国。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

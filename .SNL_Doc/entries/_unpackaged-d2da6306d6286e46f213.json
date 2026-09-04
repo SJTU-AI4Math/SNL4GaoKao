@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.然后",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "然后",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%连词%,__enum__(%表示在前项之后发生后项，相当于“这样以后”“然后”。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.其",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "其",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%代词%,__enum__(%用作第三人称领属限定，表示“他的”“他们的”“它的”。%,%用作指示或推测性代词。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

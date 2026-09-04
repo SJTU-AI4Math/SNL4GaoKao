@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.自若",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "自若",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%神态镇定自然，保持常态。%,%依然如故；没有改变。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

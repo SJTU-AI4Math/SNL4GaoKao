@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.异变",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "异变",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%发生不同变化；变化相异。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

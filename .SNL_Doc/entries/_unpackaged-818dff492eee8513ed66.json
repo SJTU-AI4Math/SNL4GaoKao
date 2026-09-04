@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.宇内",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "宇内",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%天地之间；天下。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

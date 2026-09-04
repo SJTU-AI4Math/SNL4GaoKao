@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.相反",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "相反",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%彼此对立；方向或结果相背。%)),%#0：#1%(%形容词%,__enum__(%彼此对立的；相背的。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.及至",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "及至",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%连词%,__enum__(%等到；用于引出时间推进后的阶段。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

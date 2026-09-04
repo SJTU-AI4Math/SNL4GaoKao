@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.也",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "也",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%语气词%,__enum__(%用于句末表示判断、陈述、疑问或感叹。%,%用于句中表示停顿或提示。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

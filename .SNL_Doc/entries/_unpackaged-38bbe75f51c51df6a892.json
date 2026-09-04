@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.外",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "外",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%方位名词%,__enum__(%外部；外面。%)),%#0：#1%(%副词%,__enum__(%对外；在外部方面。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.当",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "当",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%介词%,__enum__(%引出时间或情势范围，相当于“在……时候”。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

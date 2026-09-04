@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.于是",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "于是",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%连词%,__enum__(%表示承接、因果或由前述情势引出的后续，相当于“于是”。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

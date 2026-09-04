@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.攻",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "攻",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%攻打；进攻。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

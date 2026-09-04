@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.斗",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "斗",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%争斗。%,%使……相斗。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.非",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "非",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%判断词%,__enum__(%表示否定判断，相当于“不是”。%)),%#0：#1%(%副词%,__enum__(%否定谓词性成分，相当于“不”。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

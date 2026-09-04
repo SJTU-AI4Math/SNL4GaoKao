@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.恐惧",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "恐惧",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%害怕；畏惧。%)),%#0：#1%(%形容词%,__enum__(%因害怕而不安。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

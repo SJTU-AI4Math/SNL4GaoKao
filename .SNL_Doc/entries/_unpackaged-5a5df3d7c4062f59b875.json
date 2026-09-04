@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.入朝",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "入朝",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%进入朝廷；到君主所在之处朝见。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

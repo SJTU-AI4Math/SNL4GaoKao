@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.然而",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "然而",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%连词%,__enum__(%表示转折，相当于“然而”。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}
