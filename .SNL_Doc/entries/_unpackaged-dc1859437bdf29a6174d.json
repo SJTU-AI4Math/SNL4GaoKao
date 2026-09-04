@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.君臣",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "君臣",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%国君与臣下。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "史.秦.秦朝",
+    "package": "_unpackaged",
+    "kind": "historical-polity",
+    "title": "秦朝",
+    "content": {
+      "snl": "%秦始皇建立的统一王朝。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

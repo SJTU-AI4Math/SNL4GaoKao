@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "史.地理.崤山",
+    "package": "_unpackaged",
+    "kind": "historical-place",
+    "title": "崤山",
+    "content": {
+      "snl": "%古代山地名称，位于今河南西部。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

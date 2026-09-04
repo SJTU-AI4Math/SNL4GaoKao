@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.絜",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "絜",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%衡量；比较。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

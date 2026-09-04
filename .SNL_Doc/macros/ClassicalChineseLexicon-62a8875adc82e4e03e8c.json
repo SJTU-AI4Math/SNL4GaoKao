@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "函",
+    "description": "历史实体“函”的篇章表记。",
+    "source": {
+      "entries": [
+        "史.地理.函谷关"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "函"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

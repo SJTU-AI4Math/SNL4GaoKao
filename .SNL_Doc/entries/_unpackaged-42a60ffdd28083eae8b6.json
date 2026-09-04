@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "史.地理.巴地",
+    "package": "_unpackaged",
+    "kind": "historical-place",
+    "title": "巴地",
+    "content": {
+      "snl": "%先秦巴国故地及其相关地域。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

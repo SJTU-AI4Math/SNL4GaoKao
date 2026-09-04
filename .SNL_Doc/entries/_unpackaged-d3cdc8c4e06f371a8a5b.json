@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.法度",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "法度",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%法令制度。%,%规范；准则。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

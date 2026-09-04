@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.铦",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "铦",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%锋利。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

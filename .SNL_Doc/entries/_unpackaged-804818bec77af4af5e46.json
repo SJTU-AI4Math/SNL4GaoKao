@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "史.先秦.宋国",
+    "package": "_unpackaged",
+    "kind": "historical-polity",
+    "title": "宋国",
+    "content": {
+      "snl": "%周代诸侯国，历经春秋并延续至战国，前286年灭亡。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

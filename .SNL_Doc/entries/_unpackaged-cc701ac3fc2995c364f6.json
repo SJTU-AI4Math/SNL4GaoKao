@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.陈",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "陈",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%陈列；布置。%,%陈述。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

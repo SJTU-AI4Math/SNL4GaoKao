@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "咸阳",
+    "description": "历史实体“咸阳”的篇章表记。",
+    "source": {
+      "entries": [
+        "史.地理.咸阳"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "咸阳"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

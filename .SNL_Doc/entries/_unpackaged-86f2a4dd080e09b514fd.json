@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "史.地理.长城",
+    "package": "_unpackaged",
+    "kind": "historical-place",
+    "title": "长城",
+    "content": {
+      "snl": "%中国古代不同时期修筑的长距离防御工程总称。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

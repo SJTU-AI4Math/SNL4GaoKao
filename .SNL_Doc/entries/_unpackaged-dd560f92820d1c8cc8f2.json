@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "史.地理.巴蜀",
+    "package": "_unpackaged",
+    "kind": "historical-place",
+    "title": "巴蜀",
+    "content": {
+      "snl": "%先秦时期巴地与蜀地共同构成的历史地理区域。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.并",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "并",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%合并；兼并。%)),%#0：#1%(%副词%,__enum__(%一起；一并。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

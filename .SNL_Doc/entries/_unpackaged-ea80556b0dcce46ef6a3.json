@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "史.先秦.魏国",
+    "package": "_unpackaged",
+    "kind": "historical-polity",
+    "title": "魏国",
+    "content": {
+      "snl": "%战国时期诸侯国之一。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

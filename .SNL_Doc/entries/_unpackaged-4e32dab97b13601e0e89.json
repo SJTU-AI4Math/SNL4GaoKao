@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "史.先秦.卫国",
+    "package": "_unpackaged",
+    "kind": "historical-polity",
+    "title": "卫国",
+    "content": {
+      "snl": "%周代诸侯国之一。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

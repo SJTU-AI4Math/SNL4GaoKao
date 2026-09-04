@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "史.先秦.匈奴",
+    "package": "_unpackaged",
+    "kind": "historical-polity",
+    "title": "匈奴",
+    "content": {
+      "snl": "%先秦至汉代活跃于北方的族群政治共同体。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

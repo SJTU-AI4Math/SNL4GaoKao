@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "史.地理.函谷关",
+    "package": "_unpackaged",
+    "kind": "historical-place",
+    "title": "函谷关",
+    "content": {
+      "snl": "%古代关隘，位于今河南西部，是关中通往东方的重要通道。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

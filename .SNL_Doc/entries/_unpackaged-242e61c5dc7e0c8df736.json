@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.致",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "致",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%招致；取得。%,%达到。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

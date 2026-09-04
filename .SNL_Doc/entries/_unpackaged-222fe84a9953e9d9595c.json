@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "史.秦.象郡",
+    "package": "_unpackaged",
+    "kind": "historical-place",
+    "title": "象郡",
+    "content": {
+      "snl": "%秦代设置的郡。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

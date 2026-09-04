@@ -601,6 +601,510 @@
       "props": {
         "entryId": "猗顿"
       }
+    },
+    {
+      "id": "guoqinlun.historical-places",
+      "label": "Entry",
+      "props": {
+        "entryId": "过秦论.历史地理"
+      }
+    },
+    {
+      "id": "guoqinlun.historical-polities",
+      "label": "Entry",
+      "props": {
+        "entryId": "过秦论.历史政体"
+      }
+    },
+    {
+      "id": "vocab.巴蜀",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.巴蜀"
+      }
+    },
+    {
+      "id": "vocab.君臣",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.君臣"
+      }
+    },
+    {
+      "id": "vocab.法度",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.法度"
+      }
+    },
+    {
+      "id": "vocab.耕织",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.耕织"
+      }
+    },
+    {
+      "id": "vocab.奋",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.奋"
+      }
+    },
+    {
+      "id": "vocab.振",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.振"
+      }
+    },
+    {
+      "id": "vocab.御",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.御"
+      }
+    },
+    {
+      "id": "vocab.吞",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.吞"
+      }
+    },
+    {
+      "id": "vocab.亡",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.亡"
+      }
+    },
+    {
+      "id": "vocab.履",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.履"
+      }
+    },
+    {
+      "id": "vocab.制",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.制"
+      }
+    },
+    {
+      "id": "vocab.鞭笞",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.鞭笞"
+      }
+    },
+    {
+      "id": "vocab.却",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.却"
+      }
+    },
+    {
+      "id": "vocab.愚",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.愚"
+      }
+    },
+    {
+      "id": "vocab.隳",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.隳"
+      }
+    },
+    {
+      "id": "vocab.聚",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.聚"
+      }
+    },
+    {
+      "id": "vocab.践",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.践"
+      }
+    },
+    {
+      "id": "vocab.临",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.临"
+      }
+    },
+    {
+      "id": "vocab.陈",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.陈"
+      }
+    },
+    {
+      "id": "vocab.谁何",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.谁何"
+      }
+    },
+    {
+      "id": "vocab.没",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.没"
+      }
+    },
+    {
+      "id": "vocab.蹑",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.蹑"
+      }
+    },
+    {
+      "id": "vocab.倔起",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.倔起"
+      }
+    },
+    {
+      "id": "vocab.率",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.率"
+      }
+    },
+    {
+      "id": "vocab.将",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.将"
+      }
+    },
+    {
+      "id": "vocab.斩",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.斩"
+      }
+    },
+    {
+      "id": "vocab.揭",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.揭"
+      }
+    },
+    {
+      "id": "vocab.赢",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.赢"
+      }
+    },
+    {
+      "id": "vocab.景",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.景"
+      }
+    },
+    {
+      "id": "vocab.并",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.并"
+      }
+    },
+    {
+      "id": "vocab.铦",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.铦"
+      }
+    },
+    {
+      "id": "vocab.抗",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.抗"
+      }
+    },
+    {
+      "id": "vocab.及",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.及"
+      }
+    },
+    {
+      "id": "vocab.度",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.度"
+      }
+    },
+    {
+      "id": "vocab.絜",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.絜"
+      }
+    },
+    {
+      "id": "vocab.比",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.比"
+      }
+    },
+    {
+      "id": "vocab.量",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.量"
+      }
+    },
+    {
+      "id": "vocab.致",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.致"
+      }
+    },
+    {
+      "id": "vocab.作难",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.作难"
+      }
+    },
+    {
+      "id": "vocab.施",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.施"
+      }
+    },
+    {
+      "id": "place.史.地理.崤山",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.地理.崤山"
+      }
+    },
+    {
+      "id": "place.史.地理.函谷关",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.地理.函谷关"
+      }
+    },
+    {
+      "id": "place.史.地理.雍州",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.地理.雍州"
+      }
+    },
+    {
+      "id": "place.史.地理.汉中",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.地理.汉中"
+      }
+    },
+    {
+      "id": "place.史.地理.巴地",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.地理.巴地"
+      }
+    },
+    {
+      "id": "place.史.地理.蜀地",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.地理.蜀地"
+      }
+    },
+    {
+      "id": "place.史.地理.巴蜀",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.地理.巴蜀"
+      }
+    },
+    {
+      "id": "place.史.地理.西河",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.地理.西河"
+      }
+    },
+    {
+      "id": "place.史.秦.桂林郡",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.秦.桂林郡"
+      }
+    },
+    {
+      "id": "place.史.秦.象郡",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.秦.象郡"
+      }
+    },
+    {
+      "id": "place.史.地理.咸阳",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.地理.咸阳"
+      }
+    },
+    {
+      "id": "place.史.地理.华山",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.地理.华山"
+      }
+    },
+    {
+      "id": "place.史.地理.黄河",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.地理.黄河"
+      }
+    },
+    {
+      "id": "place.史.地理.关中",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.地理.关中"
+      }
+    },
+    {
+      "id": "place.史.地理.崤函以东",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.地理.崤函以东"
+      }
+    },
+    {
+      "id": "place.史.地理.长城",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.地理.长城"
+      }
+    },
+    {
+      "id": "polity.史.先秦.周王室",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.先秦.周王室"
+      }
+    },
+    {
+      "id": "polity.史.先秦.秦国",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.先秦.秦国"
+      }
+    },
+    {
+      "id": "polity.史.秦.秦朝",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.秦.秦朝"
+      }
+    },
+    {
+      "id": "polity.史.先秦.齐国",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.先秦.齐国"
+      }
+    },
+    {
+      "id": "polity.史.先秦.楚国",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.先秦.楚国"
+      }
+    },
+    {
+      "id": "polity.史.先秦.燕国",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.先秦.燕国"
+      }
+    },
+    {
+      "id": "polity.史.先秦.赵国",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.先秦.赵国"
+      }
+    },
+    {
+      "id": "polity.史.先秦.韩国",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.先秦.韩国"
+      }
+    },
+    {
+      "id": "polity.史.先秦.魏国",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.先秦.魏国"
+      }
+    },
+    {
+      "id": "polity.史.先秦.宋国",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.先秦.宋国"
+      }
+    },
+    {
+      "id": "polity.史.先秦.卫国",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.先秦.卫国"
+      }
+    },
+    {
+      "id": "polity.史.先秦.中山国",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.先秦.中山国"
+      }
+    },
+    {
+      "id": "polity.史.先秦.百越",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.先秦.百越"
+      }
+    },
+    {
+      "id": "polity.史.先秦.匈奴",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.先秦.匈奴"
+      }
     }
   ],
   "relationships": [
@@ -1027,6 +1531,366 @@
     {
       "from": "guoqinlun.historical-persons",
       "to": "person.猗顿",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun",
+      "to": "guoqinlun.historical-places",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun",
+      "to": "guoqinlun.historical-polities",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.巴蜀",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.君臣",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.法度",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.耕织",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.奋",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.振",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.御",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.吞",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.亡",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.履",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.制",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.鞭笞",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.却",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.愚",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.隳",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.聚",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.践",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.临",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.陈",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.谁何",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.没",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.蹑",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.倔起",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.率",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.将",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.斩",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.揭",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.赢",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.景",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.并",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.铦",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.抗",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.及",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.度",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.絜",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.比",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.量",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.致",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.作难",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.施",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-places",
+      "to": "place.史.地理.崤山",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-places",
+      "to": "place.史.地理.函谷关",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-places",
+      "to": "place.史.地理.雍州",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-places",
+      "to": "place.史.地理.汉中",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-places",
+      "to": "place.史.地理.巴地",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-places",
+      "to": "place.史.地理.蜀地",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-places",
+      "to": "place.史.地理.巴蜀",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-places",
+      "to": "place.史.地理.西河",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-places",
+      "to": "place.史.秦.桂林郡",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-places",
+      "to": "place.史.秦.象郡",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-places",
+      "to": "place.史.地理.咸阳",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-places",
+      "to": "place.史.地理.华山",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-places",
+      "to": "place.史.地理.黄河",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-places",
+      "to": "place.史.地理.关中",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-places",
+      "to": "place.史.地理.崤函以东",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-places",
+      "to": "place.史.地理.长城",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-polities",
+      "to": "polity.史.先秦.周王室",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-polities",
+      "to": "polity.史.先秦.秦国",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-polities",
+      "to": "polity.史.秦.秦朝",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-polities",
+      "to": "polity.史.先秦.齐国",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-polities",
+      "to": "polity.史.先秦.楚国",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-polities",
+      "to": "polity.史.先秦.燕国",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-polities",
+      "to": "polity.史.先秦.赵国",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-polities",
+      "to": "polity.史.先秦.韩国",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-polities",
+      "to": "polity.史.先秦.魏国",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-polities",
+      "to": "polity.史.先秦.宋国",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-polities",
+      "to": "polity.史.先秦.卫国",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-polities",
+      "to": "polity.史.先秦.中山国",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-polities",
+      "to": "polity.史.先秦.百越",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-polities",
+      "to": "polity.史.先秦.匈奴",
       "label": "branch"
     }
   ]

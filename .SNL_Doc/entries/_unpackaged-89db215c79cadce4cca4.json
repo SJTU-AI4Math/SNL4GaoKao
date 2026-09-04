@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "史.地理.西河",
+    "package": "_unpackaged",
+    "kind": "historical-place",
+    "title": "西河",
+    "content": {
+      "snl": "%古代地域名称；具体范围随时代和语境而异。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

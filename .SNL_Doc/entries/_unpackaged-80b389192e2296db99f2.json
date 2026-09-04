@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "史.地理.华山",
+    "package": "_unpackaged",
+    "kind": "historical-place",
+    "title": "华山",
+    "content": {
+      "snl": "%位于今陕西东部的山岳。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

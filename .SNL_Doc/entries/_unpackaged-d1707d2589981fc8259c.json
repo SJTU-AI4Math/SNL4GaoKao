@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.巴蜀",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "巴蜀",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%巴地和蜀地的合称。%,%后泛指四川地区。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

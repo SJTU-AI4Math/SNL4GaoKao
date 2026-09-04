@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "史.地理.汉中",
+    "package": "_unpackaged",
+    "kind": "historical-place",
+    "title": "汉中",
+    "content": {
+      "snl": "%古代地域名称，主要位于汉水上游盆地。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

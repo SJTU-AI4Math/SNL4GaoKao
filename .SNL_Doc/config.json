@@ -232,8 +232,8 @@
         "type": "i18n",
         "default_language": "en",
         "values": {
-          "en": "Identifies a historically attested person referenced by an authored text.",
-          "zh-CN": "标识篇章中所指称的历史人物。"
+          "en": "Identifies a historically attested individual.",
+          "zh-CN": "标识历史记载中的具体人物。"
         }
       },
       "coloring": {
@@ -247,6 +247,68 @@
         }
       },
       "defaultCounterName": "historical-person",
+      "style": ""
+    },
+    {
+      "id": "historical-place",
+      "name": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "Historical Place",
+          "zh-CN": "历史地理"
+        }
+      },
+      "description": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "Identifies a historically situated region, settlement, mountain, river, pass, or administrative place.",
+          "zh-CN": "标识具有历史时空范围的地域、城邑、山川、关隘或行政区。"
+        }
+      },
+      "coloring": {
+        "light": {
+          "stroke": "#0369A1",
+          "background": "#E0F2FE"
+        },
+        "dark": {
+          "stroke": "#7DD3FC",
+          "background": "#313131"
+        }
+      },
+      "defaultCounterName": "historical-place",
+      "style": ""
+    },
+    {
+      "id": "historical-polity",
+      "name": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "Historical Polity",
+          "zh-CN": "历史政体"
+        }
+      },
+      "description": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "Identifies a historical state, dynasty, royal house, or named political people.",
+          "zh-CN": "标识历史国家、王朝、王室或具有政治称谓的族群。"
+        }
+      },
+      "coloring": {
+        "light": {
+          "stroke": "#7E22CE",
+          "background": "#F3E8FF"
+        },
+        "dark": {
+          "stroke": "#D8B4FE",
+          "background": "#313131"
+        }
+      },
+      "defaultCounterName": "historical-polity",
       "style": ""
     }
   ],

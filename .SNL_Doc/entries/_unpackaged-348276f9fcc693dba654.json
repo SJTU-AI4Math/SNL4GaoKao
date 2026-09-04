@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.亡",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "亡",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%逃亡。%,%灭亡。%,%丢失。%)),%#0：#1%(%名词（动词名词化）%,__enum__(%逃亡的人；败逃者。%)),%#0：#1%(%使动用法%,__enum__(%使……灭亡。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

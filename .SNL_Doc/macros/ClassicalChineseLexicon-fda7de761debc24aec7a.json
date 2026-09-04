@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "先秦秦国",
+    "description": "历史实体“秦”的篇章表记。",
+    "source": {
+      "entries": [
+        "史.先秦.秦国"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "秦"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

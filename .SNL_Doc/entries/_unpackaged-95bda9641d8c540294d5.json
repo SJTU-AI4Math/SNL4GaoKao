@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "史.地理.黄河",
+    "package": "_unpackaged",
+    "kind": "historical-place",
+    "title": "黄河",
+    "content": {
+      "snl": "%中国北方主要河流。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

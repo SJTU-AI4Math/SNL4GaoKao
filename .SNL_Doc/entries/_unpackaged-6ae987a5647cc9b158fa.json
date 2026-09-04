@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.及",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "及",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%赶上；达到。%,%比得上。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "史.地理.关中",
+    "package": "_unpackaged",
+    "kind": "historical-place",
+    "title": "关中",
+    "content": {
+      "snl": "%函谷关以西、秦岭以北一带的历史地理区域。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}
