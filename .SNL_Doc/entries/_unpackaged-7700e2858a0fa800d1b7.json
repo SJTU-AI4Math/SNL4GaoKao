@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.策",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "策",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%计策；谋略。%,%马鞭。%,%书写用的竹简。%)),%#0：#1%(%动词%,__enum__(%用鞭驱赶；督促。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

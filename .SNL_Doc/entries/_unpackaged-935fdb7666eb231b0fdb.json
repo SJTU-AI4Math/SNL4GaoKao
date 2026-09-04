@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.帝王",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "帝王",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%帝与王；泛指君主。%)),%#0：#1%(%动词%,__enum__(%称帝称王；世代做帝王。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

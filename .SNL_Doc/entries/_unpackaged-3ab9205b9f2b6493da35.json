@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.中人",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "中人",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%才智或能力处于中等水平的人；普通人。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

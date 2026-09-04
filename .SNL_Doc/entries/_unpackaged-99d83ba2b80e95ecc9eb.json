@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.不测",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "不测",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%难以预料的。%,%深不可测的。%)),%#0：#1%(%名词%,__enum__(%意外的灾祸或变故。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

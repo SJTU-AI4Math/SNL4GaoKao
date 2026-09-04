@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.足",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "足",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%脚。%)),%#0：#1%(%动词%,__enum__(%足够；满足。%)),%#0：#1%(%形容词%,__enum__(%充足的。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "谪戍",
+    "description": "文言词汇“谪戍”。",
+    "source": {
+      "entries": [
+        "文.谪戍"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "谪戍"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

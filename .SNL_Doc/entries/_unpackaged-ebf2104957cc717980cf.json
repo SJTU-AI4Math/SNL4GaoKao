@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.家",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "家",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%家庭；家族。%,%居所；住所。%,%学术流派。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "行伍",
+    "description": "文言词汇“行伍”。",
+    "source": {
+      "entries": [
+        "文.行伍"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "行伍"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

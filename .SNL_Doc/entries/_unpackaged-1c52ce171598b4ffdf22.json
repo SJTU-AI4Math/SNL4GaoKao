@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.遗",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "遗",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%遗留；留下。%,%遗失；丢失。%)),%#0：#1%(%形容词%,__enum__(%前人遗留下来的。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

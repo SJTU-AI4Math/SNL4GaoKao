@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.弩",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "弩",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%装有机械发射装置的弓。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

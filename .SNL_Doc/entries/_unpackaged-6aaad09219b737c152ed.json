@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.威",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "威",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%威势；威力；声威。%)),%#0：#1%(%动词%,__enum__(%威慑；震慑。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

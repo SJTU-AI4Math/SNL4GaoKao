@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.里",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "里",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%古代基层居住单位；乡里。%)),%#0：#1%(%量词%,__enum__(%计量道路长度的单位。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

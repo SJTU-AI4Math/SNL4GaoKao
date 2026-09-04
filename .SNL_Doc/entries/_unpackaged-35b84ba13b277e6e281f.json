@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.权",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "权",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%权势；权力。%,%权衡轻重的秤锤。%)),%#0：#1%(%动词%,__enum__(%权衡；比较。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

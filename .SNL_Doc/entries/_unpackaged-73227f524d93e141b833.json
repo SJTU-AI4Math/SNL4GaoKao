@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.手",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "手",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%手。%,%人的掌握或处置。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.至尊",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "至尊",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%至高无上的地位；也指居于该地位的君主。%)),%#0：#1%(%形容词%,__enum__(%最尊贵的。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.大",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "大",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%规模、程度或数量大。%)),%#0：#1%(%名词%,__enum__(%大小；规模。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

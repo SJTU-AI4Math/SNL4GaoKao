@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "豪杰",
+    "description": "文言词汇“豪杰”。",
+    "source": {
+      "entries": [
+        "文.豪杰"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "豪杰"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

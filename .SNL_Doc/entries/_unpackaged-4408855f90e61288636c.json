@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.中",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "中",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%方位词%,__enum__(%内部；中间。%)),%#0：#1%(%名词%,__enum__(%中心；其中。%)),%#0：#1%(%动词%,__enum__(%符合；击中。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

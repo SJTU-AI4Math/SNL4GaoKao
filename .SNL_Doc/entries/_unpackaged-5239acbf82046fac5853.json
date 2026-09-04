@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.区区",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "区区",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%小；微小。%)),%#0：#1%(%副词%,__enum__(%仅仅；不过。%)),%#0：#1%(%代词%,__enum__(%谦称自己。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

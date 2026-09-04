@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "迁徙",
+    "description": "文言词汇“迁徙”。",
+    "source": {
+      "entries": [
+        "文.迁徙"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "迁徙"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

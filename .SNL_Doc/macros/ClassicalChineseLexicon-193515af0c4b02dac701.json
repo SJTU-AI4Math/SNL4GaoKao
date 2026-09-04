@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "阡陌",
+    "description": "文言词汇“阡陌”。",
+    "source": {
+      "entries": [
+        "文.阡陌"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "阡陌"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

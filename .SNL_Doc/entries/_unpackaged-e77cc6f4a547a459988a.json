@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.百",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "百",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%数词%,__enum__(%十的十倍；也泛指数量很多。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

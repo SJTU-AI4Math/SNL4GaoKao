@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.师",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "师",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%军队。%,%老师；传授知识技艺的人。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

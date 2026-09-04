@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.具",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "具",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%器具；用具；装备。%)),%#0：#1%(%动词%,__enum__(%具备；备办；陈述。%)),%#0：#1%(%副词%,__enum__(%全；都；详细地。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

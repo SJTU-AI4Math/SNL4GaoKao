@@ -1296,10 +1296,10 @@
       }
     },
     {
-      "id": "grammar.文法.敢",
+      "id": "vocab.敢",
       "label": "Entry",
       "props": {
-        "entryId": "文法.敢"
+        "entryId": "文.敢"
       }
     },
     {
@@ -1506,13 +1506,6 @@
       }
     },
     {
-      "id": "vocab.延及",
-      "label": "Entry",
-      "props": {
-        "entryId": "文.延及"
-      }
-    },
-    {
       "id": "vocab.享国",
       "label": "Entry",
       "props": {
@@ -1531,13 +1524,6 @@
       "label": "Entry",
       "props": {
         "entryId": "文.逡巡"
-      }
-    },
-    {
-      "id": "vocab.余力",
-      "label": "Entry",
-      "props": {
-        "entryId": "文.余力"
       }
     },
     {
@@ -1818,6 +1804,1000 @@
       "label": "Entry",
       "props": {
         "entryId": "文.笑"
+      }
+    },
+    {
+      "id": "vocab.战",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.战"
+      }
+    },
+    {
+      "id": "vocab.具",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.具"
+      }
+    },
+    {
+      "id": "vocab.故",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.故"
+      }
+    },
+    {
+      "id": "vocab.业",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.业"
+      }
+    },
+    {
+      "id": "vocab.遗",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.遗"
+      }
+    },
+    {
+      "id": "vocab.策",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.策"
+      }
+    },
+    {
+      "id": "vocab.膏腴",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.膏腴"
+      }
+    },
+    {
+      "id": "vocab.要害",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.要害"
+      }
+    },
+    {
+      "id": "vocab.郡",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.郡"
+      }
+    },
+    {
+      "id": "vocab.众",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.众"
+      }
+    },
+    {
+      "id": "vocab.属",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.属"
+      }
+    },
+    {
+      "id": "vocab.徒",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.徒"
+      }
+    },
+    {
+      "id": "vocab.意",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.意"
+      }
+    },
+    {
+      "id": "vocab.伦",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.伦"
+      }
+    },
+    {
+      "id": "vocab.兵",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.兵"
+      }
+    },
+    {
+      "id": "vocab.师",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.师"
+      }
+    },
+    {
+      "id": "vocab.费",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.费"
+      }
+    },
+    {
+      "id": "vocab.矢",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.矢"
+      }
+    },
+    {
+      "id": "vocab.镞",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.镞"
+      }
+    },
+    {
+      "id": "vocab.余",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.余"
+      }
+    },
+    {
+      "id": "vocab.力",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.力"
+      }
+    },
+    {
+      "id": "vocab.长",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.长"
+      }
+    },
+    {
+      "id": "vocab.烈",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.烈"
+      }
+    },
+    {
+      "id": "vocab.先",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.先"
+      }
+    },
+    {
+      "id": "vocab.王",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.王"
+      }
+    },
+    {
+      "id": "vocab.家",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.家"
+      }
+    },
+    {
+      "id": "vocab.名",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.名"
+      }
+    },
+    {
+      "id": "vocab.城",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.城"
+      }
+    },
+    {
+      "id": "vocab.良",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.良"
+      }
+    },
+    {
+      "id": "vocab.劲",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.劲"
+      }
+    },
+    {
+      "id": "vocab.弩",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.弩"
+      }
+    },
+    {
+      "id": "vocab.处",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.处"
+      }
+    },
+    {
+      "id": "vocab.信",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.信"
+      }
+    },
+    {
+      "id": "vocab.臣",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.臣"
+      }
+    },
+    {
+      "id": "vocab.精",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.精"
+      }
+    },
+    {
+      "id": "vocab.卒",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.卒"
+      }
+    },
+    {
+      "id": "vocab.定",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.定"
+      }
+    },
+    {
+      "id": "vocab.威",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.威"
+      }
+    },
+    {
+      "id": "vocab.族",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.族"
+      }
+    },
+    {
+      "id": "vocab.深",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.深"
+      }
+    },
+    {
+      "id": "vocab.远",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.远"
+      }
+    },
+    {
+      "id": "vocab.虑",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.虑"
+      }
+    },
+    {
+      "id": "vocab.行",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.行"
+      }
+    },
+    {
+      "id": "vocab.军",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.军"
+      }
+    },
+    {
+      "id": "vocab.用",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.用"
+      }
+    },
+    {
+      "id": "vocab.年",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.年"
+      }
+    },
+    {
+      "id": "vocab.夫",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.夫"
+      }
+    },
+    {
+      "id": "vocab.仁",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.仁"
+      }
+    },
+    {
+      "id": "vocab.义",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.义"
+      }
+    },
+    {
+      "id": "vocab.势",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.势"
+      }
+    },
+    {
+      "id": "vocab.至尊",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.至尊"
+      }
+    },
+    {
+      "id": "vocab.六合",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.六合"
+      }
+    },
+    {
+      "id": "vocab.敲扑",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.敲扑"
+      }
+    },
+    {
+      "id": "vocab.俯首",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.俯首"
+      }
+    },
+    {
+      "id": "vocab.系颈",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.系颈"
+      }
+    },
+    {
+      "id": "vocab.藩篱",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.藩篱"
+      }
+    },
+    {
+      "id": "vocab.豪杰",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.豪杰"
+      }
+    },
+    {
+      "id": "vocab.黔首",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.黔首"
+      }
+    },
+    {
+      "id": "vocab.筑",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.筑"
+      }
+    },
+    {
+      "id": "vocab.下",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.下"
+      }
+    },
+    {
+      "id": "vocab.牧",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.牧"
+      }
+    },
+    {
+      "id": "vocab.马",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.马"
+      }
+    },
+    {
+      "id": "vocab.弯",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.弯"
+      }
+    },
+    {
+      "id": "vocab.弓",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.弓"
+      }
+    },
+    {
+      "id": "vocab.报",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.报"
+      }
+    },
+    {
+      "id": "vocab.怨",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.怨"
+      }
+    },
+    {
+      "id": "vocab.废",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.废"
+      }
+    },
+    {
+      "id": "vocab.道",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.道"
+      }
+    },
+    {
+      "id": "vocab.焚",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.焚"
+      }
+    },
+    {
+      "id": "vocab.言",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.言"
+      }
+    },
+    {
+      "id": "vocab.杀",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.杀"
+      }
+    },
+    {
+      "id": "vocab.民",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.民"
+      }
+    },
+    {
+      "id": "vocab.池",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.池"
+      }
+    },
+    {
+      "id": "vocab.渊",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.渊"
+      }
+    },
+    {
+      "id": "vocab.执",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.执"
+      }
+    },
+    {
+      "id": "vocab.瓮牖",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.瓮牖"
+      }
+    },
+    {
+      "id": "vocab.绳枢",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.绳枢"
+      }
+    },
+    {
+      "id": "vocab.氓隶",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.氓隶"
+      }
+    },
+    {
+      "id": "vocab.迁徙",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.迁徙"
+      }
+    },
+    {
+      "id": "vocab.才能",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.才能"
+      }
+    },
+    {
+      "id": "vocab.中人",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.中人"
+      }
+    },
+    {
+      "id": "vocab.行伍",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.行伍"
+      }
+    },
+    {
+      "id": "vocab.阡陌",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.阡陌"
+      }
+    },
+    {
+      "id": "vocab.疲弊",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.疲弊"
+      }
+    },
+    {
+      "id": "vocab.豪俊",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.豪俊"
+      }
+    },
+    {
+      "id": "vocab.子",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.子"
+      }
+    },
+    {
+      "id": "vocab.富",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.富"
+      }
+    },
+    {
+      "id": "vocab.足",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.足"
+      }
+    },
+    {
+      "id": "vocab.间",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.间"
+      }
+    },
+    {
+      "id": "vocab.木",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.木"
+      }
+    },
+    {
+      "id": "vocab.竿",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.竿"
+      }
+    },
+    {
+      "id": "vocab.旗",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.旗"
+      }
+    },
+    {
+      "id": "vocab.云",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.云"
+      }
+    },
+    {
+      "id": "vocab.集",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.集"
+      }
+    },
+    {
+      "id": "vocab.响",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.响"
+      }
+    },
+    {
+      "id": "vocab.应",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.应"
+      }
+    },
+    {
+      "id": "vocab.粮",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.粮"
+      }
+    },
+    {
+      "id": "vocab.起",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.起"
+      }
+    },
+    {
+      "id": "vocab.转",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.转"
+      }
+    },
+    {
+      "id": "vocab.棘矜",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.棘矜"
+      }
+    },
+    {
+      "id": "vocab.钩戟",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.钩戟"
+      }
+    },
+    {
+      "id": "vocab.长铩",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.长铩"
+      }
+    },
+    {
+      "id": "vocab.谪戍",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.谪戍"
+      }
+    },
+    {
+      "id": "vocab.向时",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.向时"
+      }
+    },
+    {
+      "id": "vocab.区区",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.区区"
+      }
+    },
+    {
+      "id": "vocab.万乘",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.万乘"
+      }
+    },
+    {
+      "id": "vocab.州",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.州"
+      }
+    },
+    {
+      "id": "vocab.同列",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.同列"
+      }
+    },
+    {
+      "id": "vocab.七庙",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.七庙"
+      }
+    },
+    {
+      "id": "vocab.位",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.位"
+      }
+    },
+    {
+      "id": "vocab.君",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.君"
+      }
+    },
+    {
+      "id": "vocab.成",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.成"
+      }
+    },
+    {
+      "id": "vocab.国",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.国"
+      }
+    },
+    {
+      "id": "vocab.大",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.大"
+      }
+    },
+    {
+      "id": "vocab.权",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.权"
+      }
+    },
+    {
+      "id": "vocab.百",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.百"
+      }
+    },
+    {
+      "id": "vocab.宫",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.宫"
+      }
+    },
+    {
+      "id": "vocab.手",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.手"
+      }
+    },
+    {
+      "id": "vocab.身",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.身"
+      }
+    },
+    {
+      "id": "vocab.死",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.死"
+      }
+    },
+    {
+      "id": "vocab.异",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.异"
+      }
+    },
+    {
+      "id": "vocab.拱手",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.拱手"
+      }
+    },
+    {
+      "id": "vocab.明智",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.明智"
+      }
+    },
+    {
+      "id": "vocab.忠信",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.忠信"
+      }
+    },
+    {
+      "id": "vocab.宽厚",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.宽厚"
+      }
+    },
+    {
+      "id": "vocab.时",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.时"
+      }
+    },
+    {
+      "id": "vocab.事",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.事"
+      }
+    },
+    {
+      "id": "vocab.伏",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.伏"
+      }
+    },
+    {
+      "id": "vocab.尸",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.尸"
+      }
+    },
+    {
+      "id": "vocab.流",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.流"
+      }
+    },
+    {
+      "id": "vocab.血",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.血"
+      }
+    },
+    {
+      "id": "vocab.强",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.强"
+      }
+    },
+    {
+      "id": "vocab.里",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.里"
+      }
+    },
+    {
+      "id": "vocab.帝王",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.帝王"
+      }
+    },
+    {
+      "id": "vocab.世",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.世"
+      }
+    },
+    {
+      "id": "vocab.子孙",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.子孙"
+      }
+    },
+    {
+      "id": "vocab.心",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.心"
+      }
+    },
+    {
+      "id": "vocab.中",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.中"
+      }
+    },
+    {
+      "id": "vocab.不测",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.不测"
+      }
+    },
+    {
+      "id": "grammar.文法.能愿结构",
+      "label": "Entry",
+      "props": {
+        "entryId": "文法.能愿结构"
+      }
+    },
+    {
+      "id": "grammar.文法.人物引介列举",
+      "label": "Entry",
+      "props": {
+        "entryId": "文法.人物引介列举"
+      }
+    },
+    {
+      "id": "polity.史.先秦.二周",
+      "label": "Entry",
+      "props": {
+        "entryId": "史.先秦.二周"
       }
     }
   ],
@@ -2744,11 +3724,6 @@
     },
     {
       "from": "guoqinlun.wenyan-xuci",
-      "to": "grammar.文法.敢",
-      "label": "branch"
-    },
-    {
-      "from": "guoqinlun.wenyan-xuci",
       "to": "grammar.文法.可",
       "label": "branch"
     },
@@ -2894,11 +3869,6 @@
     },
     {
       "from": "guoqinlun.wenyan-shici",
-      "to": "vocab.延及",
-      "label": "branch"
-    },
-    {
-      "from": "guoqinlun.wenyan-shici",
       "to": "vocab.享国",
       "label": "branch"
     },
@@ -2910,11 +3880,6 @@
     {
       "from": "guoqinlun.wenyan-shici",
       "to": "vocab.逡巡",
-      "label": "branch"
-    },
-    {
-      "from": "guoqinlun.wenyan-shici",
-      "to": "vocab.余力",
       "label": "branch"
     },
     {
@@ -3115,6 +4080,721 @@
     {
       "from": "guoqinlun.wenyan-shici",
       "to": "vocab.笑",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.敢",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.战",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.具",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.故",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.业",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.遗",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.策",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.膏腴",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.要害",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.郡",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.众",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.属",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.徒",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.意",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.伦",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.兵",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.师",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.费",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.矢",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.镞",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.余",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.力",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.长",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.烈",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.先",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.王",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.家",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.名",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.城",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.良",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.劲",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.弩",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.处",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.信",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.臣",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.精",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.卒",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.定",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.威",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.族",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.深",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.远",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.虑",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.行",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.军",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.用",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.年",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.夫",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.仁",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.义",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.势",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.至尊",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.六合",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.敲扑",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.俯首",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.系颈",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.藩篱",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.豪杰",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.黔首",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.筑",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.下",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.牧",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.马",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.弯",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.弓",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.报",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.怨",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.废",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.道",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.焚",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.言",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.杀",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.民",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.池",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.渊",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.执",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.瓮牖",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.绳枢",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.氓隶",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.迁徙",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.才能",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.中人",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.行伍",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.阡陌",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.疲弊",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.豪俊",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.子",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.富",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.足",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.间",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.木",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.竿",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.旗",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.云",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.集",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.响",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.应",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.粮",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.起",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.转",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.棘矜",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.钩戟",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.长铩",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.谪戍",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.向时",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.区区",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.万乘",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.州",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.同列",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.七庙",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.位",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.君",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.成",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.国",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.大",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.权",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.百",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.宫",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.手",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.身",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.死",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.异",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.拱手",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.明智",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.忠信",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.宽厚",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.时",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.事",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.伏",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.尸",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.流",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.血",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.强",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.里",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.帝王",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.世",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.子孙",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.心",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.中",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.不测",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-xuci",
+      "to": "grammar.文法.能愿结构",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-xuci",
+      "to": "grammar.文法.人物引介列举",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-polities",
+      "to": "polity.史.先秦.二周",
       "label": "branch"
     }
   ]

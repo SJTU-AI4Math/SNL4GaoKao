@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.烈",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "烈",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%功业；功绩。%,%威势；声威。%)),%#0：#1%(%形容词%,__enum__(%猛烈；刚烈。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

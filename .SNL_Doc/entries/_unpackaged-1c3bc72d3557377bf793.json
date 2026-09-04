@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.众",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "众",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%众人；众多的人。%,%军队；兵众。%)),%#0：#1%(%形容词%,__enum__(%多；众多。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

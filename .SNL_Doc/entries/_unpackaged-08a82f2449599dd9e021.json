@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.敢",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "敢",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%有勇气或胆量去做。%,%冒昧地做；谦辞中表示冒昧。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

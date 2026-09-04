@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.行",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "行",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%行走；前进。%,%施行；办理。%,%统率并调动。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

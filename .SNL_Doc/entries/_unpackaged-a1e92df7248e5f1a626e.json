@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.豪俊",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "豪俊",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%才智、勇力或声望杰出的人。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

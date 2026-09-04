@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.豪杰",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "豪杰",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%才智、力量或声望出众的人。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

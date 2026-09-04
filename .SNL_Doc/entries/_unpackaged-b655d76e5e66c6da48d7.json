@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.兵",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "兵",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%兵器；武器。%,%军队；士兵。%,%战争；军事。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

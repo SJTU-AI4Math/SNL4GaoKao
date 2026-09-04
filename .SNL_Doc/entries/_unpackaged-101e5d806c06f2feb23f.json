@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.军",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "军",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%军队。%,%军营。%)),%#0：#1%(%动词%,__enum__(%驻军；行军。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

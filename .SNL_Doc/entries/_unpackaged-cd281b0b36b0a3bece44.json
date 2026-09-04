@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.子孙",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "子孙",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%儿子和孙子；泛指后代。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

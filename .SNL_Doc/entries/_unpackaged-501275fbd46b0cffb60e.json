@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.属",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "属",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%类别；同类的人或事物。%,%属下；部属。%)),%#0：#1%(%动词%,__enum__(%隶属；归属。%,%托付；嘱托。%,%连接；连续。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.杀",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "杀",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%杀死；诛杀。%,%削弱；减损。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

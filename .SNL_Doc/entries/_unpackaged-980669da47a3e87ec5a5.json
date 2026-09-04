@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.向时",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "向时",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%从前；先前的时候。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.间",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "间",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%中间；期间。%,%缝隙；空隙。%)),%#0：#1%(%动词%,__enum__(%离间；参与。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

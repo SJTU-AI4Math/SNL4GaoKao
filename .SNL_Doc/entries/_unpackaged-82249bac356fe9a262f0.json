@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.谪戍",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "谪戍",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%因罪被征发戍守边地的人。%)),%#0：#1%(%动词%,__enum__(%因罪被贬谪并征发戍边。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

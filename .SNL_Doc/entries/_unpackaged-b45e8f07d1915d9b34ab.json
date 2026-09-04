@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.万乘",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "万乘",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%拥有万辆兵车的国家；借指天子或帝王之国。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.响",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "响",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%回声；声响。%)),%#0：#1%(%副词%,__enum__(%像回声一样迅速回应。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

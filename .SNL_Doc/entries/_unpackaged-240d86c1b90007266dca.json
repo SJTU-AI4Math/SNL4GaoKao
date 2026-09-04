@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "史.先秦.二周",
+    "package": "_unpackaged",
+    "kind": "historical-polity",
+    "title": "二周",
+    "content": {
+      "snl": "%战国时期西周国与东周国的合称；二者皆由周王畿分裂而成。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

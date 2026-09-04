@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.俯首",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "俯首",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%低下头；表示顺从或屈服。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

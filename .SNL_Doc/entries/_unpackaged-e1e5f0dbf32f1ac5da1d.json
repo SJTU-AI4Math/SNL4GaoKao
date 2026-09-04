@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.阡陌",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "阡陌",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%田间纵横交错的道路；泛指田野。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

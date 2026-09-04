@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.精",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "精",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%精锐；精良。%,%纯净；精细。%)),%#0：#1%(%名词%,__enum__(%精华；精神。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

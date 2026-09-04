@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.信",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "信",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%诚实；守信。%,%可靠；可信。%)),%#0：#1%(%名词%,__enum__(%信用；信约。%,%凭证；消息。%)),%#0：#1%(%动词%,__enum__(%相信；信任。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

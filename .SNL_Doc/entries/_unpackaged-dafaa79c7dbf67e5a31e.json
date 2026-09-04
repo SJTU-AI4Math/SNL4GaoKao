@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.能愿结构",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "能愿结构",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%句法结构%,__enum__(%能愿动词位于谓词或谓词短语之前，表示可能、意愿、必要或许可。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

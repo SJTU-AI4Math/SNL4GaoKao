@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.瓮牖",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "瓮牖",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%以破瓮作成的窗；形容贫寒的居处。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

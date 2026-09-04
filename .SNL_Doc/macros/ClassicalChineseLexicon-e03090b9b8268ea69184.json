@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "二周",
+    "description": "历史政体合称“二周”的篇章表记。",
+    "source": {
+      "entries": [
+        "史.先秦.二周"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "二周"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.池",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "池",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%护城河。%,%水池。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

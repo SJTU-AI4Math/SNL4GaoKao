@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.系颈",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "系颈",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%把绳索系在颈上；表示请降或就缚。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

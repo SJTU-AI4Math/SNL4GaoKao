@@ -5,7 +5,7 @@
   "package": "ClassicalChineseSyntax",
   "macro": {
     "name": "文法.于是",
-    "description": "",
+    "description": "复合虚词“于是”，按承接、时间、处境或处所义标注。",
     "source": {
       "entries": [
         "文法.于是"
@@ -17,6 +17,102 @@
     "styles": [
       {
         "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "于是#0",
+          "typst": {
+            "built_in": "",
+            "synthesis": {
+              "mode": "formula",
+              "macro": ""
+            }
+          },
+          "latex": {
+            "built_in": "",
+            "synthesis": {
+              "mode": "formula",
+              "macro": ""
+            }
+          },
+          "markdown": "",
+          "text": ""
+        }
+      },
+      {
+        "style_name": "continuative",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "于是#0",
+          "typst": {
+            "built_in": "",
+            "synthesis": {
+              "mode": "formula",
+              "macro": ""
+            }
+          },
+          "latex": {
+            "built_in": "",
+            "synthesis": {
+              "mode": "formula",
+              "macro": ""
+            }
+          },
+          "markdown": "",
+          "text": ""
+        }
+      },
+      {
+        "style_name": "time",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "于是#0",
+          "typst": {
+            "built_in": "",
+            "synthesis": {
+              "mode": "formula",
+              "macro": ""
+            }
+          },
+          "latex": {
+            "built_in": "",
+            "synthesis": {
+              "mode": "formula",
+              "macro": ""
+            }
+          },
+          "markdown": "",
+          "text": ""
+        }
+      },
+      {
+        "style_name": "situation",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "于是#0",
+          "typst": {
+            "built_in": "",
+            "synthesis": {
+              "mode": "formula",
+              "macro": ""
+            }
+          },
+          "latex": {
+            "built_in": "",
+            "synthesis": {
+              "mode": "formula",
+              "macro": ""
+            }
+          },
+          "markdown": "",
+          "text": ""
+        }
+      },
+      {
+        "style_name": "place",
         "tags": [],
         "template": {
           "mode": "text",

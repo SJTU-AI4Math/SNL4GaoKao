@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.心",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "心",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%心脏。%,%思想；心意；意志。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

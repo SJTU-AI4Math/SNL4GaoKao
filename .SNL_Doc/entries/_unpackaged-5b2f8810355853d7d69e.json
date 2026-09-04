@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.故",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "故",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%旧的；原来的。%)),%#0：#1%(%名词%,__enum__(%缘故；原因。%)),%#0：#1%(%副词%,__enum__(%故意；特意。%)),%#0：#1%(%连词%,__enum__(%因此；所以。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

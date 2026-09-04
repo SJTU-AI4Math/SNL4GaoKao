@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.下",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "下",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%向下移动；下降。%,%攻下；使屈服。%)),%#0：#1%(%名词%,__enum__(%下面；低处。%)),%#0：#1%(%方位词%,__enum__(%在……之下。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

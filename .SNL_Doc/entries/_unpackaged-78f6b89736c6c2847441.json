@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.长",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "长",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%长度大。%,%时间久远。%)),%#0：#1%(%动词%,__enum__(%生长；增长。%,%担任首领；统率。%)),%#0：#1%(%名词%,__enum__(%长度；长处。%,%首领；长者。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

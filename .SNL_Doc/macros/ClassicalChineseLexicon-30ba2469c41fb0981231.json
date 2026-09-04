@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "系颈",
+    "description": "文言词汇“系颈”。",
+    "source": {
+      "entries": [
+        "文.系颈"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "系颈"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.棘矜",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "棘矜",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%以荆棘制成的矛柄；代指简陋兵器。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

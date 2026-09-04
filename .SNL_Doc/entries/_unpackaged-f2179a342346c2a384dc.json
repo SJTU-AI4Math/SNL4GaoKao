@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.先",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "先",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%先前的；前代的。%)),%#0：#1%(%名词%,__enum__(%先前；前面。%)),%#0：#1%(%副词%,__enum__(%在前；首先。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

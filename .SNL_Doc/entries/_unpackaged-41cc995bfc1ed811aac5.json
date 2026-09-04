@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.余",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "余",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%剩余的；遗留下来的。%)),%#0：#1%(%数词%,__enum__(%置于整数后，表示超过所举数目。%)),%#0：#1%(%代词%,__enum__(%第一人称代词，相当于“我”。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

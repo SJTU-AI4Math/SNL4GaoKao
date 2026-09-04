@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "忠信",
+    "description": "文言词汇“忠信”。",
+    "source": {
+      "entries": [
+        "文.忠信"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "忠信"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

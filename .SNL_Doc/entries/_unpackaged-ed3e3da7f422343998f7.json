@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.弯",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "弯",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%拉弓；使弯曲。%)),%#0：#1%(%形容词%,__enum__(%弯曲的。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

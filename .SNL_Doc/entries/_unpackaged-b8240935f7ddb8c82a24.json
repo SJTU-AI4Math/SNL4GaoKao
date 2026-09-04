@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.死",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "死",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%死亡。%)),%#0：#1%(%形容词%,__enum__(%失去生命的。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

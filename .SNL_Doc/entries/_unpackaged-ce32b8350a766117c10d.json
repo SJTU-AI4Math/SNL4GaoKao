@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.名",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "名",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%著名的；有名望的。%)),%#0：#1%(%名词%,__enum__(%名称；名声。%)),%#0：#1%(%动词%,__enum__(%命名；说出名称。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

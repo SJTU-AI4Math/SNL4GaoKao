@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.成",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "成",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%成功；完成；成就。%)),%#0：#1%(%名词%,__enum__(%成功；成果。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.异",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "异",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%不同；相异。%,%奇异；特殊。%)),%#0：#1%(%动词%,__enum__(%认为不同；区别。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

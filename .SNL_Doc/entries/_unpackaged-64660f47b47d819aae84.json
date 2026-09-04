@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.处",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "处",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%地方；处所。%,%位置；境况。%)),%#0：#1%(%动词%,__enum__(%居住；处在。%,%处理；处置。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

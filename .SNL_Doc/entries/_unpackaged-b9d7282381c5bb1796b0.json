@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.子",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "子",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%子女；儿子。%,%对人的尊称。%)),%#0：#1%(%代词%,__enum__(%第二人称代词，相当于“你”。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

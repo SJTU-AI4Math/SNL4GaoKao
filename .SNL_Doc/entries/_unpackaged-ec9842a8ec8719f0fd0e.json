@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.夫",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "夫",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%成年男子；普通男子。%,%丈夫。%)),%#0：#1%(%代词%,__enum__(%那；这个。%)),%#0：#1%(%语气词%,__enum__(%用于句首，引出议论。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

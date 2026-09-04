@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.定",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "定",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%安定；平定。%,%确定；决定。%)),%#0：#1%(%形容词%,__enum__(%安定的；确定的。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.人物引介列举",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "人物引介列举",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%篇章结构%,__enum__(%以若干完整引介分句逐项引出人物，并把这些人物组成可供后文回指的列举集合。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}
