@@ -2799,6 +2799,27 @@
       "props": {
         "entryId": "史.先秦.二周"
       }
+    },
+    {
+      "id": "vocab.钩",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.钩"
+      }
+    },
+    {
+      "id": "vocab.戟",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.戟"
+      }
+    },
+    {
+      "id": "vocab.铩",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.铩"
+      }
     }
   ],
   "relationships": [
@@ -4795,6 +4816,21 @@
     {
       "from": "guoqinlun.historical-polities",
       "to": "polity.史.先秦.二周",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.钩",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.戟",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.铩",
       "label": "branch"
     }
   ]
