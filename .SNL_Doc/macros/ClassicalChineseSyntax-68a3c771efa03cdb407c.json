@@ -17,7 +17,7 @@
         "tags": [],
         "template": {
           "mode": "text",
-          "body": "非#0",
+          "body": "以#0",
           "typst": {
             "built_in": "",
             "synthesis": {
@@ -38,6 +38,6 @@
       }
     ],
     "tags": [],
-    "name": "文.非"
+    "name": "文法.以"
   }
 }

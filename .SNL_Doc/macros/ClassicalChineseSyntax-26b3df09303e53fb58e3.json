@@ -16,8 +16,8 @@
         "style_name": "default",
         "tags": [],
         "template": {
-          "mode": "text",
-          "body": "#0而#1",
+          "mode": "formula_inline",
+          "body": "#0矣",
           "typst": {
             "built_in": "",
             "synthesis": {
@@ -38,6 +38,6 @@
       }
     ],
     "tags": [],
-    "name": "文.而"
+    "name": "文法.矣"
   }
 }
