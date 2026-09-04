@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "过秦论.文言虚词",
+    "package": "_unpackaged",
+    "kind": "section",
+    "title": "文言虚词",
+    "content": {
+      "snl": "%组织篇章所引用的文言虚词及其语法用法。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

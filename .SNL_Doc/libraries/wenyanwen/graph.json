@@ -1105,6 +1105,20 @@
       "props": {
         "entryId": "史.先秦.匈奴"
       }
+    },
+    {
+      "id": "guoqinlun.wenyan-xuci",
+      "label": "Entry",
+      "props": {
+        "entryId": "过秦论.文言虚词"
+      }
+    },
+    {
+      "id": "grammar.文法.之",
+      "label": "Entry",
+      "props": {
+        "entryId": "文法.之"
+      }
     }
   ],
   "relationships": [
@@ -1891,6 +1905,16 @@
     {
       "from": "guoqinlun.historical-polities",
       "to": "polity.史.先秦.匈奴",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun",
+      "to": "guoqinlun.wenyan-xuci",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-xuci",
+      "to": "grammar.文法.之",
       "label": "branch"
     }
   ]

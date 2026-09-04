@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文法.之",
+    "package": "_unpackaged",
+    "kind": "grammar",
+    "title": "之",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%结构助词%,__enum__(%连接修饰语与中心语，可表示领属、修饰或限定关系。%,%用于主谓性成分之间，使其转化为名词性成分。%,%可作为宾语前置、定语后置等结构的标志。%,%可用于补足音节。%)),%#0：#1%(%代词%,__enum__(%用作第三人称代词，指代人或事物。%,%用作指示代词，相当于“这”“此”。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}
