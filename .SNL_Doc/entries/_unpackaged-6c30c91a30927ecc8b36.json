@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.内",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "内",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%里面；内部；国内。%)),%#0：#1%(%动词%,__enum__(%接纳；使进入。%)),%#0：#1%(%副词（名词作状语）%,__enum__(%在国内。%,%本文“内立法度”：在国内建立法度。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

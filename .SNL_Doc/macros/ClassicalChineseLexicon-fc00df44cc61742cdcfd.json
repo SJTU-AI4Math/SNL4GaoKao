@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "王廖",
+    "description": "《过秦论》中的人物称谓“王廖”。",
+    "source": {
+      "entries": [
+        "王廖"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "王廖"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

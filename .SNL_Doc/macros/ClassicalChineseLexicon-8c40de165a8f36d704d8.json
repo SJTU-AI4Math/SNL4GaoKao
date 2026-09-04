@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "小",
+    "description": "文言词汇“小”。",
+    "source": {
+      "entries": [
+        "文.小"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "小"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

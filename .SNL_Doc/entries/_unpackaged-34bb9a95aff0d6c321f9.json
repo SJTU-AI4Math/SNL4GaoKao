@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.缔交",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "缔交",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%建立交谊。%,%缔结盟约；结盟。%,%本文“合从缔交”：缔结盟约。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "田忌",
+    "description": "《过秦论》中的人物称谓“田忌”。",
+    "source": {
+      "entries": [
+        "田忌"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "田忌"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

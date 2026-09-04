@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "过秦论.历史人物",
+    "package": "_unpackaged",
+    "kind": "section",
+    "title": "历史人物",
+    "content": {
+      "snl": "%组织《过秦论》中具有明确历史人物所指的条目。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

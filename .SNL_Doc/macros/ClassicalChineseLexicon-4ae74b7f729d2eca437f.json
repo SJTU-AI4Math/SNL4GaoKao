@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "苏秦",
+    "description": "《过秦论》中的人物称谓“苏秦”。",
+    "source": {
+      "entries": [
+        "苏秦"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "苏秦"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

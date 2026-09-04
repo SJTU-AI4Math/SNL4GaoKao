@@ -6,7 +6,1028 @@
       "props": {
         "entryId": "过秦论"
       }
+    },
+    {
+      "id": "guoqinlun.wenyan-shici",
+      "label": "Entry",
+      "props": {
+        "entryId": "过秦论.文言实词"
+      }
+    },
+    {
+      "id": "guoqinlun.historical-persons",
+      "label": "Entry",
+      "props": {
+        "entryId": "过秦论.历史人物"
+      }
+    },
+    {
+      "id": "vocab.据",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.据"
+      }
+    },
+    {
+      "id": "vocab.拥",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.拥"
+      }
+    },
+    {
+      "id": "vocab.固",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.固"
+      }
+    },
+    {
+      "id": "vocab.窥",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.窥"
+      }
+    },
+    {
+      "id": "vocab.守",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.守"
+      }
+    },
+    {
+      "id": "vocab.有",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.有"
+      }
+    },
+    {
+      "id": "vocab.内",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.内"
+      }
+    },
+    {
+      "id": "vocab.立",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.立"
+      }
+    },
+    {
+      "id": "vocab.务",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.务"
+      }
+    },
+    {
+      "id": "vocab.修",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.修"
+      }
+    },
+    {
+      "id": "vocab.蒙",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.蒙"
+      }
+    },
+    {
+      "id": "vocab.因",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.因"
+      }
+    },
+    {
+      "id": "vocab.南",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.南"
+      }
+    },
+    {
+      "id": "vocab.取",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.取"
+      }
+    },
+    {
+      "id": "vocab.西",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.西"
+      }
+    },
+    {
+      "id": "vocab.举",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.举"
+      }
+    },
+    {
+      "id": "vocab.东",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.东"
+      }
+    },
+    {
+      "id": "vocab.割",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.割"
+      }
+    },
+    {
+      "id": "vocab.北",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.北"
+      }
+    },
+    {
+      "id": "vocab.收",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.收"
+      }
+    },
+    {
+      "id": "vocab.皆",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.皆"
+      }
+    },
+    {
+      "id": "vocab.爱",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.爱"
+      }
+    },
+    {
+      "id": "vocab.人",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.人"
+      }
+    },
+    {
+      "id": "vocab.尊",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.尊"
+      }
+    },
+    {
+      "id": "vocab.贤",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.贤"
+      }
+    },
+    {
+      "id": "vocab.重",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.重"
+      }
+    },
+    {
+      "id": "vocab.士",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.士"
+      }
+    },
+    {
+      "id": "vocab.约",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.约"
+      }
+    },
+    {
+      "id": "vocab.从",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.从"
+      }
+    },
+    {
+      "id": "vocab.离",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.离"
+      }
+    },
+    {
+      "id": "vocab.衡",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.衡"
+      }
+    },
+    {
+      "id": "vocab.兼",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.兼"
+      }
+    },
+    {
+      "id": "vocab.销",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.销"
+      }
+    },
+    {
+      "id": "vocab.锋",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.锋"
+      }
+    },
+    {
+      "id": "vocab.镝",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.镝"
+      }
+    },
+    {
+      "id": "vocab.自",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.自"
+      }
+    },
+    {
+      "id": "vocab.小",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.小"
+      }
+    },
+    {
+      "id": "vocab.弱",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.弱"
+      }
+    },
+    {
+      "id": "vocab.锄",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.锄"
+      }
+    },
+    {
+      "id": "vocab.櫌",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.櫌"
+      }
+    },
+    {
+      "id": "vocab.序",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.序"
+      }
+    },
+    {
+      "id": "vocab.朝",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.朝"
+      }
+    },
+    {
+      "id": "vocab.合从",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.合从"
+      }
+    },
+    {
+      "id": "vocab.合纵",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.合纵"
+      }
+    },
+    {
+      "id": "vocab.缔交",
+      "label": "Entry",
+      "props": {
+        "entryId": "文.缔交"
+      }
+    },
+    {
+      "id": "person.秦孝公",
+      "label": "Entry",
+      "props": {
+        "entryId": "秦孝公"
+      }
+    },
+    {
+      "id": "person.商鞅",
+      "label": "Entry",
+      "props": {
+        "entryId": "商鞅"
+      }
+    },
+    {
+      "id": "person.秦惠文王",
+      "label": "Entry",
+      "props": {
+        "entryId": "秦惠文王"
+      }
+    },
+    {
+      "id": "person.秦武王",
+      "label": "Entry",
+      "props": {
+        "entryId": "秦武王"
+      }
+    },
+    {
+      "id": "person.秦昭襄王",
+      "label": "Entry",
+      "props": {
+        "entryId": "秦昭襄王"
+      }
+    },
+    {
+      "id": "person.田文",
+      "label": "Entry",
+      "props": {
+        "entryId": "田文"
+      }
+    },
+    {
+      "id": "person.赵胜",
+      "label": "Entry",
+      "props": {
+        "entryId": "赵胜"
+      }
+    },
+    {
+      "id": "person.黄歇",
+      "label": "Entry",
+      "props": {
+        "entryId": "黄歇"
+      }
+    },
+    {
+      "id": "person.魏无忌",
+      "label": "Entry",
+      "props": {
+        "entryId": "魏无忌"
+      }
+    },
+    {
+      "id": "person.甯越",
+      "label": "Entry",
+      "props": {
+        "entryId": "甯越"
+      }
+    },
+    {
+      "id": "person.徐尚",
+      "label": "Entry",
+      "props": {
+        "entryId": "徐尚"
+      }
+    },
+    {
+      "id": "person.苏秦",
+      "label": "Entry",
+      "props": {
+        "entryId": "苏秦"
+      }
+    },
+    {
+      "id": "person.杜赫",
+      "label": "Entry",
+      "props": {
+        "entryId": "杜赫"
+      }
+    },
+    {
+      "id": "person.齐明",
+      "label": "Entry",
+      "props": {
+        "entryId": "齐明"
+      }
+    },
+    {
+      "id": "person.周最",
+      "label": "Entry",
+      "props": {
+        "entryId": "周最"
+      }
+    },
+    {
+      "id": "person.陈轸",
+      "label": "Entry",
+      "props": {
+        "entryId": "陈轸"
+      }
+    },
+    {
+      "id": "person.召滑",
+      "label": "Entry",
+      "props": {
+        "entryId": "召滑"
+      }
+    },
+    {
+      "id": "person.楼缓",
+      "label": "Entry",
+      "props": {
+        "entryId": "楼缓"
+      }
+    },
+    {
+      "id": "person.翟景",
+      "label": "Entry",
+      "props": {
+        "entryId": "翟景"
+      }
+    },
+    {
+      "id": "person.苏厉",
+      "label": "Entry",
+      "props": {
+        "entryId": "苏厉"
+      }
+    },
+    {
+      "id": "person.乐毅",
+      "label": "Entry",
+      "props": {
+        "entryId": "乐毅"
+      }
+    },
+    {
+      "id": "person.吴起",
+      "label": "Entry",
+      "props": {
+        "entryId": "吴起"
+      }
+    },
+    {
+      "id": "person.孙膑",
+      "label": "Entry",
+      "props": {
+        "entryId": "孙膑"
+      }
+    },
+    {
+      "id": "person.带佗",
+      "label": "Entry",
+      "props": {
+        "entryId": "带佗"
+      }
+    },
+    {
+      "id": "person.倪良",
+      "label": "Entry",
+      "props": {
+        "entryId": "倪良"
+      }
+    },
+    {
+      "id": "person.王廖",
+      "label": "Entry",
+      "props": {
+        "entryId": "王廖"
+      }
+    },
+    {
+      "id": "person.田忌",
+      "label": "Entry",
+      "props": {
+        "entryId": "田忌"
+      }
+    },
+    {
+      "id": "person.廉颇",
+      "label": "Entry",
+      "props": {
+        "entryId": "廉颇"
+      }
+    },
+    {
+      "id": "person.赵奢",
+      "label": "Entry",
+      "props": {
+        "entryId": "赵奢"
+      }
+    },
+    {
+      "id": "person.秦孝文王",
+      "label": "Entry",
+      "props": {
+        "entryId": "秦孝文王"
+      }
+    },
+    {
+      "id": "person.秦庄襄王",
+      "label": "Entry",
+      "props": {
+        "entryId": "秦庄襄王"
+      }
+    },
+    {
+      "id": "person.秦始皇",
+      "label": "Entry",
+      "props": {
+        "entryId": "秦始皇"
+      }
+    },
+    {
+      "id": "person.蒙恬",
+      "label": "Entry",
+      "props": {
+        "entryId": "蒙恬"
+      }
+    },
+    {
+      "id": "person.陈胜",
+      "label": "Entry",
+      "props": {
+        "entryId": "陈胜"
+      }
+    },
+    {
+      "id": "person.孔丘",
+      "label": "Entry",
+      "props": {
+        "entryId": "孔丘"
+      }
+    },
+    {
+      "id": "person.墨翟",
+      "label": "Entry",
+      "props": {
+        "entryId": "墨翟"
+      }
+    },
+    {
+      "id": "person.范蠡",
+      "label": "Entry",
+      "props": {
+        "entryId": "范蠡"
+      }
+    },
+    {
+      "id": "person.猗顿",
+      "label": "Entry",
+      "props": {
+        "entryId": "猗顿"
+      }
     }
   ],
-  "relationships": []
+  "relationships": [
+    {
+      "from": "guoqinlun",
+      "to": "guoqinlun.wenyan-shici",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun",
+      "to": "guoqinlun.historical-persons",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.据",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.拥",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.固",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.窥",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.守",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.有",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.内",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.立",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.务",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.修",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.蒙",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.因",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.南",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.取",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.西",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.举",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.东",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.割",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.北",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.收",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.皆",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.爱",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.人",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.尊",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.贤",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.重",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.士",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.约",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.从",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.离",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.衡",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.兼",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.销",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.锋",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.镝",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.自",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.小",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.弱",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.锄",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.櫌",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.序",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.朝",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.合从",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.合纵",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.wenyan-shici",
+      "to": "vocab.缔交",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.秦孝公",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.商鞅",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.秦惠文王",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.秦武王",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.秦昭襄王",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.田文",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.赵胜",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.黄歇",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.魏无忌",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.甯越",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.徐尚",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.苏秦",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.杜赫",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.齐明",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.周最",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.陈轸",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.召滑",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.楼缓",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.翟景",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.苏厉",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.乐毅",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.吴起",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.孙膑",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.带佗",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.倪良",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.王廖",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.田忌",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.廉颇",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.赵奢",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.秦孝文王",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.秦庄襄王",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.秦始皇",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.蒙恬",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.陈胜",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.孔丘",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.墨翟",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.范蠡",
+      "label": "branch"
+    },
+    {
+      "from": "guoqinlun.historical-persons",
+      "to": "person.猗顿",
+      "label": "branch"
+    }
+  ]
 }

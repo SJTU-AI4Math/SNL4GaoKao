@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "倪良",
+    "description": "《过秦论》中的人物称谓“倪良”。",
+    "source": {
+      "entries": [
+        "倪良"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "倪良"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

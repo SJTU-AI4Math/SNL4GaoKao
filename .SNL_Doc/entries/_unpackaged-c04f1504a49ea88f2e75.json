@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.合从",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "合从",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%缔结合纵联盟；“从”通“纵”。%,%本文“合从缔交”：六国联合抗秦。%)),%#0：#1%(%通假用法%,__enum__(%从，通“纵”；#0。%(合纵))))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

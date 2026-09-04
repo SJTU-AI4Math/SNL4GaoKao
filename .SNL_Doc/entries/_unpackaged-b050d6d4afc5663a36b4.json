@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.从",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "从",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%跟从；跟随。%,%听从。%)),%#0：#1%(%名词%,__enum__(%随从。%,%合纵盟约或合纵策略；读zòng，通“纵”。%)),%#0：#1%(%通假用法%,__enum__(%从，通“纵”；#0。%(合纵))))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.重",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "重",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%沉重。%,%重要。%)),%#0：#1%(%动词%,__enum__(%重视；看重。%,%本文“重士”：重视。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

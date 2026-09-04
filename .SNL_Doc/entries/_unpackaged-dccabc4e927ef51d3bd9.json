@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.衡",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "衡",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%秤杆。%,%衡量的准则。%,%连横策略；通“横”。%)),%#0：#1%(%通假用法%,__enum__(%衡，通“横”；指连横。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

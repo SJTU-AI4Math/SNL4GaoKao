@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.序",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "序",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%次序。%)),%#0：#1%(%动词%,__enum__(%排列；依次安置。%)),%#0：#1%(%使动用法（名词活用为动词）%,__enum__(%使……有次序；使依次归附。%,%本文“序八州”：招致八州归附。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "孙膑",
+    "description": "《过秦论》中的人物称谓“孙膑”。",
+    "source": {
+      "entries": [
+        "孙膑"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "孙膑"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "过秦论.文言实词",
+    "package": "_unpackaged",
+    "kind": "section",
+    "title": "文言实词",
+    "content": {
+      "snl": "%组织《过秦论》中作为语言符号研究的文言实词条目。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

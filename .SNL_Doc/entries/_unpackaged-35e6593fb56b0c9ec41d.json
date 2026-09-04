@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.修",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "修",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%修治；整治。%,%修造。%,%学习；修养。%,%本文“修守战之具”：修造、整治。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

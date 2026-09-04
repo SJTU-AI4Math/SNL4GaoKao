@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.销",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "销",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%熔化。%,%消除。%,%销售。%,%本文“销锋镝”：熔化。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

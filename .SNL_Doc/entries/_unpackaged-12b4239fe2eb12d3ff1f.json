@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "甯越",
+    "package": "_unpackaged",
+    "kind": "historical-person",
+    "title": "甯越",
+    "content": {
+      "snl": "%《过秦论》中的历史人物；本文校作“甯越”，传本文字另见“寧越”，简化本曾作“宁越”。%"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.贤",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "贤",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%形容词%,__enum__(%贤能；有才德。%)),%#0：#1%(%名词（形容词名词化）%,__enum__(%贤能的人。%,%本文“尊贤”：贤能的人。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

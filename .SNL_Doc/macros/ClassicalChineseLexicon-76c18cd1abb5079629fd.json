@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "齐明",
+    "description": "《过秦论》中的人物称谓“齐明”。",
+    "source": {
+      "entries": [
+        "齐明"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "齐明"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

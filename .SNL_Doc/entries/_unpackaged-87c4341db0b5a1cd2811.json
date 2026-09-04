@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.守",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "守",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%守卫；防守。%,%遵守。%,%本文“固守”：坚守、防守。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

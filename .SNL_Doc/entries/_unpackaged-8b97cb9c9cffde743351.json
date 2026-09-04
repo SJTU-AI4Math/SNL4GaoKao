@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.约",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "约",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%约定。%,%结盟。%,%约束。%,%本文“约从”：缔结合纵盟约。%)),%#0：#1%(%形容词%,__enum__(%简约；简要。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

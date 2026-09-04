@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.收",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "收",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%收取。%,%收复；夺取。%,%聚集。%,%本文“收要害之郡”：夺取、收取。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

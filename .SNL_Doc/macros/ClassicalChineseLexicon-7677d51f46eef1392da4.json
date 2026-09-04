@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "惠文",
+    "description": "《过秦论》中的人物称谓“惠文”。",
+    "source": {
+      "entries": [
+        "秦惠文王"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "惠文"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

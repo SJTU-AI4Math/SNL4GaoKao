@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "徐尚",
+    "description": "《过秦论》中的人物称谓“徐尚”。",
+    "source": {
+      "entries": [
+        "徐尚"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "徐尚"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

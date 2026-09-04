@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.士",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "士",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%名词%,__enum__(%士人。%,%有才德或谋略的人。%,%将士。%,%本文“重士”：有才德、有谋略的人。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

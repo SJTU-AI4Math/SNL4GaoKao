@@ -1,0 +1,29 @@
+{
+  "format": "snl-macro",
+  "version": 1,
+  "schema_version": 1,
+  "package": "ClassicalChineseLexicon",
+  "macro": {
+    "name": "周最",
+    "description": "《过秦论》中的人物称谓“周最”。",
+    "source": {
+      "entries": [
+        "周最"
+      ],
+      "urls": []
+    },
+    "kind": "const",
+    "dynamic_arity": false,
+    "styles": [
+      {
+        "style_name": "default",
+        "tags": [],
+        "template": {
+          "mode": "text",
+          "body": "周最"
+        }
+      }
+    ],
+    "tags": []
+  }
+}

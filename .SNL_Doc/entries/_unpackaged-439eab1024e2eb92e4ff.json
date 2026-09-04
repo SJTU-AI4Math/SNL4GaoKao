@@ -1,0 +1,17 @@
+{
+  "format": "snl-entry",
+  "version": 1,
+  "schema_version": 1,
+  "package": "_unpackaged",
+  "entry": {
+    "id": "文.割",
+    "package": "_unpackaged",
+    "kind": "vocabulary",
+    "title": "割",
+    "content": {
+      "snl": "__enum__[dot](%#0：#1%(%动词%,__enum__(%切割。%,%割让。%,%割取；夺取。%,%本文“割膏腴之地”：割取。%)))"
+    },
+    "contribution_info": null,
+    "pointer": null
+  }
+}

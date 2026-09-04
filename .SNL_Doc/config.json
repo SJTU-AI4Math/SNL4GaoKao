@@ -217,6 +217,37 @@
       },
       "defaultCounterName": "example",
       "style": ""
+    },
+    {
+      "id": "historical-person",
+      "name": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "Historical Person",
+          "zh-CN": "历史人物"
+        }
+      },
+      "description": {
+        "type": "i18n",
+        "default_language": "en",
+        "values": {
+          "en": "Identifies a historically attested person referenced by an authored text.",
+          "zh-CN": "标识篇章中所指称的历史人物。"
+        }
+      },
+      "coloring": {
+        "light": {
+          "stroke": "#BE123C",
+          "background": "#FFE4E6"
+        },
+        "dark": {
+          "stroke": "#FDA4AF",
+          "background": "#313131"
+        }
+      },
+      "defaultCounterName": "historical-person",
+      "style": ""
     }
   ],
   "macro_kinds": [
@@ -313,6 +344,7 @@
   ],
   "active_macro_packages": [
     "BasicMacros",
+    "ClassicalChineseLexicon",
     "ClassicalChineseSyntax"
   ],
   "entity_storage": {
